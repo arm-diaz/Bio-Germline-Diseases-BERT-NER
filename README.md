@@ -51,11 +51,15 @@ You can also build the graph by running the cql query `knowledge-graph/crqCreate
 
 Execute jupyter notebook `charts/chart-wordcloud`
 
+### General stats
+
+Execute jupyter notebook `charts/stats`
+
 ## Results
 
 Results can be found in the folder `results`.
 
-Files:ner_diseases
+Files:
 
 + `pubmed_sentences`: CSV file contains Pubmed ID, Sentence#, and Sentences from abstracts
 + `ner_genes`: CSV file contains Pubmed ID, Sentence#, Word (NER Gene), Start (Position), End (Position), Entity (Type)
@@ -66,19 +70,19 @@ Files:ner_diseases
 
 ## Graphs
 
-### Graph 1: Gene <- PubmMeID -> Disease {name: 'Teeth (Benign)'}
+### Graph 1: Gene <- PubMedID -> Disease {name: 'Teeth (Benign)'}
 
 ![Graph1](images/graph1.png "Graph1")
 
-### Graph 2: PubmMeID -> Disease {name: 'Teeth (Benign)'}
+### Graph 2: PubMedID -> Disease {name: 'Teeth (Benign)'}
 
 ![Graph2](images/graph2.png "Graph2")
 
 
-### Graph 3: PubmMeID -> Gene {name: 'AXIN2'}
+### Graph 3: PubMedID -> Gene {name: 'AXIN2'}
 
 ![Graph3](images/graph3.png "Graph3")
 
-### Graph 4: Gene <- PubmMeID {name: '9024708'} -> Disease
+### Graph 4: Gene <- PubMedID {name: '9024708'} -> Disease
 
 ![Graph4](images/graph4.png "Graph4")
