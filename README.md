@@ -51,6 +51,23 @@ You can also build the graph by running the cql query `knowledge-graph/crqCreate
 
 Execute jupyter notebook `charts/chart-wordcloud`
 
+#### WordCloud Genes: Name Entity Recognition
+
+![wordCloud1](images/wordCloudGene.png "wordCloud1")
+
+#### WordCloud Genes: Name Entity Disambiguation
+
+![wordCloud2](images/wordCloudDisambiguatedGene.png "wordCloud2")
+
+#### WordCloud Diseases: Name Entity Recognition
+
+![wordCloud3](images/wordCloudDisease.png "wordCloud3")
+
+#### WordCloud Diseases: Name Entity Disambiguation
+
+![wordCloud2](images/wordCloudDisambiguatedDisease.png "wordCloud2")
+
+
 ### General Statistics
 
 Execute jupyter notebook `charts/stats`
