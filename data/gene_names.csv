@@ -1,0 +1,1350 @@
+﻿AltNameGene,GeneMasterName
+TRRAP,TRRAP
+MYD88,MYD88
+NTRK,NTRK
+PCAP,PCAP
+PMS2P1,PMS2P1
+RINT1,RINT1
+MCPH1,MCPH1
+ARA9,AIP
+FKBP16,AIP
+XAP2,AIP
+PITA1,AIP
+XAP-2,AIP
+FKBP37,AIP
+SMTPHN,AIP
+CD246,ALK
+NBLST3,ALK
+CAR,CASR
+FHH,CASR
+PCAR1,CASR
+hCasR,CASR
+GPRC2A,CASR
+HYPOC1,CASR
+FIH,CASR
+HHC,CASR
+EIG8,CASR
+NSHPT,CASR
+HHC1,CASR
+HYX,CDC73
+FIHP,CDC73
+HPTJT,CDC73
+HRPT1,CDC73
+HRPT2,CDC73
+C1orf28,CDC73
+CEBP,CEBPA
+C/EBP-alpha,CEBPA
+BWS,CDKN1C
+WBS,CDKN1C
+p57,CDKN1C
+BWCR,CDKN1C
+KIP2,CDKN1C
+p57Kip2,CDKN1C
+CF,CFTR
+MRP7,CFTR
+AT mutated,ATM
+AT protein,ATM
+AT1,ATM
+ATA,ATM
+ataxia telangiectasia mutated,ATM
+ataxia telangiectasia mutated protein,ATM
+"ataxia telangiectasia mutated (includes complementation groups A, C and D)",ATM
+ATD,ATM
+ATC,ATM
+ATDC,ATM
+ATE,ATM
+ATM_HUMAN,ATM
+human phosphatidylinositol 3-kinase homolog,ATM
+serine-protein kinase ATM,ATM
+TEL1,ATM
+TELO1,ATM
+BRCA1 Associated RING Domain 1,BARD1
+RING-Type E3 Ubiquitin Transferase BARD1,BARD1
+BARD-1,BARD1
+EC 2.3.2.27,BARD1
+"Protein Phosphatase 1, Regulatory Subunit 46",APC
+Deleted In Polyposis 2.5,APC
+Adenomatosis Polyposis Coli Tumor Suppressor,APC
+Truncated Adenomatosis Polyposis Coli,APC
+BTPS2,APC
+EC 2.7.11.1,ATM
+ATM Serine/Threonine Kinase,ATM
+ACVRLK3,BMPR1A
+ALK3,BMPR1A
+BMR1A_HUMAN,BMPR1A
+bone morphogenetic protein receptor type IA,BMPR1A
+CD292,BMPR1A
+SKR5,BMPR1A
+serine/threonine-protein kinase receptor R5,BMPR1A
+Activin Receptor-Like Kinase 3,BMPR1A
+BMP Type-1A Receptor,BMPR1A
+EC 2.7.11.30,BMPR1A
+BMPR-1A,BMPR1A
+ALK-3,BMPR1A
+"Activin A Receptor, Type II-Like Kinase 3",BMPR1A
+CD292 Antigen,BMPR1A
+EC 2.7.11,BMPR1A
+BRCC1,BRCA1
+breast cancer 1 gene,BRCA1
+"breast cancer 1, early onset gene",BRCA1
+breast cancer type 1 susceptibility gene,BRCA1
+breast cancer type 1 susceptibility protein,BRCA1
+IRIS,BRCA1
+PPP1R53,BRCA1
+PSCP,BRCA1
+RNF53,BRCA1
+"BRCA1, DNA Repair Associated",BRCA1
+"Protein Phosphatase 1, Regulatory Subunit 53",BRCA1
+"BRCA1/BRCA2-Containing Complex, Subunit 1",BRCA1
+"Fanconi Anemia, Complementation Group S",BRCA1
+RING Finger Protein 53,BRCA1
+BRCA1_HUMAN,BRCA1
+Breast And Ovarian Cancer Susceptibility Protein 1,BRCA1
+RING-Type E3 Ubiquitin Transferase BRCA1,BRCA1
+EC 2.3.2.27,BRCA1
+EC 6.3.2,BRCA1
+BROVCA1,BRCA1
+BRCAI,BRCA1
+FANCS,BRCA1
+PNCA4,BRCA1
+"BRCA2_HUMAN
+BRCC2",BRCA2
+breast cancer 2 gene,BRCA2
+"breast cancer 2, early onset gene",BRCA2
+breast cancer type 2 susceptibility protein,BRCA2
+breast cancer type 2 susceptibility gene,BRCA2
+FACD,BRCA2
+FAD,BRCA2
+FAD1,BRCA2
+FANCB,BRCA2
+"BRCA2, DNA Repair Associated",BRCA2
+"BRCA1/BRCA2-Containing Complex, Subunit 2",BRCA2
+Fanconi Anemia Group D1 Protein,BRCA2
+"Breast And Ovarian Cancer Susceptibility Gene, Early Onset",BRCA2
+Breast And Ovarian Cancer Susceptibility Protein 2,BRCA2
+"Fanconi Anemia, Complementation Group D1",BRCA2
+Truncated Breast Cancer 2,BRCA2
+Breast Cancer 2 Tumor Suppressor,BRCA2
+BROVCA2,BRCA2
+XRCC11,BRCA2
+BRCC2,BRCA2
+PNCA2,BRCA2
+FANCD,BRCA2
+GLM3,BRCA2
+BACH1,BRIP1
+BRCA1-Interacting Protein C-Terminal Helicase 1,BRIP1
+BRCA1-Associated C-Terminal Helicase 1,BRIP1
+BRCA1/BRCA2-Associated Helicase 1,BRIP1
+ATP-Dependent RNA Helicase BRIP1,BRIP1
+BRCA1-Binding Helicase-Like Protein BACH1,BRIP1
+Fanconi Anemia Group J Protein,BRIP1
+EC 3.6.4.13,BRIP1
+EC 3.6.1,BRIP1
+Arc-1,CDH1
+CADH1_HUMAN,CDH1
+"cadherin 1, type 1",CDH1
+"Calcium-Dependent Adhesion Protein, Epithelial",CDH1
+CAM 120/80,CDH1
+CD324,CDH1
+CDHE,CDH1
+Cell-CAM 120/80,CDH1
+ECAD,CDH1
+LCAM,CDH1
+liver cell adhesion molecule,CDH1
+UVO,CDH1
+uvomorulin,CDH1
+"cadherin 1, type 1, E-cadherin (epithelial)",CDH1
+CD324 Antigen,CDH1
+multiple tumor suppressor 1,CDKN2A
+cyclin-dependent kinase 4 inhibitor A,CDKN2A
+cyclin-dependent kinase inhibitor 2A,CDKN2A
+cyclin-dependent kinase inhibitor 2A isoform p12,CDKN2A
+cyclin-dependent kinase inhibitor 2A isoform p14ARF,CDKN2A
+cyclin-dependent kinase inhibitor 2A isoform p16INK4a,CDKN2A
+cyclin-dependent kinase inhibitor 2A isoform p16gamma,CDKN2A
+Cell Cycle Negative Regulator Beta,CDKN2A
+Alternative Reading Frame,CDKN2A
+CMM3,CDK4
+PSK-J3,CDK4
+Cyclin Dependent Kinase 4,CDK4
+Cell Division Protein Kinase 4,CDK4
+EC 2.7.11.22,CDK4
+Cyclin-Dependent Kinase 4,CDK4
+EC 2.7.11,CDK4
+CDS1,CHEK2
+Cds1 kinase,CHEK2
+Checkpoint-Like Protein CHK2,CHEK2
+CHK2 checkpoint homolog (S. pombe),CHEK2
+Chk2 protein kinase,CHEK2
+CHK2_HUMAN,CHEK2
+hCds1 protein,CHEK2
+hCHK2,CHEK2
+HuCds1,CHEK2
+RAD53,CHEK2
+Serine/Threonine-Protein Kinase CHK2,CHEK2
+HCds1,CHEK2
+"CHK2 (Checkpoint, S.Pombe) Homolog",CHEK2
+EC 2.7.11.1,CHEK2
+EC 2.7.11,CHEK2
+PP1425,CHEK2
+LFS2,CHEK2
+17-1A,EPCAM
+323/A3,EPCAM
+CD326,EPCAM
+CO-17A,EPCAM
+EGP-2,EPCAM
+EGP34,EPCAM
+EGP40,EPCAM
+Ep-CAM,EPCAM
+epithelial cell adhesion molecule precursor,EPCAM
+epithelial glycoprotein 314,EPCAM
+ESA,EPCAM
+GA733-2,EPCAM
+HEA125,EPCAM
+human epithelial glycoprotein-2,EPCAM
+KS1/4,EPCAM
+KSA,EPCAM
+Ly74,EPCAM
+M4S1,EPCAM
+MH99,EPCAM
+MIC18,EPCAM
+MK-1,EPCAM
+MOC31,EPCAM
+TACST-1,EPCAM
+TACSTD1,EPCAM
+TROP1,EPCAM
+tumor-associated calcium signal transducer 1,EPCAM
+Major Gastrointestinal Tumor-Associated Protein GA733-2,EPCAM
+Adenocarcinoma-Associated Antigen,EPCAM
+"Membrane Component, Chromosome 4, Surface Marker (35kD Glycoprotein)",EPCAM
+Antigen Identified By Monoclonal Antibody AUA1,EPCAM
+Epithelial Cell Surface Antigen,EPCAM
+Epithelial Glycoprotein,EPCAM
+KS 1/4 Antigen,EPCAM
+HEGP314,EPCAM
+HNPCC8,EPCAM
+DIAR5,EPCAM
+M1S2,EPCAM
+EGP,EPCAM
+PSGD,HOXB13
+C15DUPq,GREM1
+CKTSF1B1,GREM1
+CRAC1,GREM1
+CRCS4,GREM1
+DAND2,GREM1
+DRM,GREM1
+DUP15q,GREM1
+GREMLIN,GREM1
+HMPS,GREM1
+HMPS1,GREM1
+IHG-2,GREM1
+MPSH,GREM1
+PIG2,GREM1
+"Gremlin 1, DAN Family BMP Antagonist",GREM1
+"Cysteine Knot Superfamily 1, BMP Antagonist 1",GREM1
+Down-Regulated In Mos-Transformed Cells Protein,GREM1
+Cell Proliferation-Inducing Gene 2 Protein,GREM1
+Colorectal Adenoma And Carcinoma 1,GREM1
+DAN Domain Family Member 2,GREM1
+"Gremlin 1, Cysteine Knot Superfamily, Homolog (Xenopus Laevis)",GREM1
+Increased In High Glucose Protein 2,GREM1
+Increased In High Glucose-2,GREM1
+Gremlin 1-Like Protein,GREM1
+Gremlin 1,GREM1
+Gremlin-1,GREM1
+Homeobox Protein Hox-B13,HOXB13
+HXB13_HUMAN,HOXB13
+Homeobox B13,HOXB13
+Homeo Box B13,HOXB13
+COCA2,MLH1
+FCC2,MLH1
+HNPCC,MLH1
+HNPCC2,MLH1
+MLH1_HUMAN,MLH1
+"mutL (E. coli) homolog 1 (colon cancer, nonpolyposis type 2)",MLH1
+"mutL homolog 1, colon cancer, nonpolyposis type 2 (E. coli)",MLH1
+MutL protein homolog 1,MLH1
+MutL Homolog 1,MLH1
+DNA Mismatch Repair Protein Mlh1,MLH1
+COCA1,MSH2
+HNPCC,MSH2
+HNPCC1,MSH2
+MSH2_HUMAN,MSH2
+"mutS (E. coli) homolog 2 (colon cancer, nonpolyposis type 1)",MSH2
+mutS (E. coli) homolog 2,MSH2
+"mutS homolog 2, colon cancer, nonpolyposis type 1 (E. coli)",MSH2
+MutS Homolog 2,MSH2
+FCC1,MSH2
+LCFS2,MSH2
+MutS Protein Homolog 2,MSH2
+DNA Mismatch Repair Protein MSH2,MSH2
+DNA Mismatch Repair Protein MSH6,MSH6
+G/T mismatch-binding protein,MSH6
+GTBP,MSH6
+GTMBP,MSH6
+HNPCC5,MSH6
+MSH6_HUMAN,MSH6
+mutS (E. coli) homolog 6,MSH6
+MutS-alpha 160 kDa subunit,MSH6
+mutS homolog 6 (E. coli),MSH6
+P160,MSH6
+MutS Protein Homolog 6,MSH6
+Sperm-Associated Protein,MSH6
+HSAP,MSH6
+hMYH,MUTYH
+MUTYH_HUMAN,MUTYH
+mutY homolog,MUTYH
+mutY homolog (E. coli),MUTYH
+mutY (E. coli) homolog,MUTYH
+EC 3.2.2,MUTYH
+MutY-Like Protein,MUTYH
+Adenine DNA Glycosylase,MUTYH
+A/G-Specific Adenine DNA Glycosylase,MUTYH
+MutY DNA Glycosylase,MUTYH
+AT-V1,NBN
+AT-V2,NBN
+ATV,NBN
+NBN_HUMAN,NBN
+NBS,NBN
+p95 protein of the MRE11/RAD50 complex,NBN
+Nijmegen breakage syndrome 1,NBN
+Nibrin,NBN
+Cell Cycle Regulatory Protein P95,NBN
+P95,NBN
+PNCA3,PALB2
+"Fanconi Anemia, Complementation Group N",PALB2
+DNA mismatch repair gene homologue,PMS2
+HNPCC4,PMS2
+MLH4,PMS2
+PMS2-C terminal -like,PMS2
+PMS2 postmeiotic segregation increased 2 (S. cerevisiae),PMS2
+PMS2_HUMAN,PMS2
+PMS2CL,PMS2
+PMSL2,PMS2
+postmeiotic segregation increased (S. cerevisiae) 2,PMS2
+"PMS1 Homolog 2, Mismatch Repair System Component",PMS2
+"PMS1 Homolog 2, Mismatch Repair Protein",PMS2
+PMS1 Protein Homolog 2,PMS2
+Postmeiotic Segregation Increased 2 Nirs Variant 6,PMS2
+Mismatch Repair Endonuclease PMS2,PMS2
+EC 3.1.-.-,PMS2
+CDC2,POLD1
+CRCS10,POLD1
+MDPL,POLD1
+POLD,POLD1
+"DNA Polymerase Delta 1, Catalytic Subunit",POLD1
+"Polymerase (DNA) Delta 1, Catalytic Subunit",POLD1
+DNA Polymerase Subunit Delta P125,POLD1
+EC 2.7.7.7,POLD1
+"Polymerase (DNA Directed), Delta 1, Catalytic Subunit (125kD)",POLD1
+CDC2 Homolog (S. Cerevisiae),POLD1
+CDC2 Homolog,POLD1
+EC 3.1.11.-,POLD1
+CRCS12,POLE
+FILS,POLE
+POLE1,POLE
+"DNA Polymerase Epsilon, Catalytic Subunit",POLE
+DNA Polymerase Epsilon Catalytic Subunit A,POLE
+DNA Polymerase II Subunit A,POLE
+EC 2.7.7.7,POLE
+EC 2.7.7,POLE
+"Polymerase (DNA Directed), Epsilon, Catalytic Subunit",POLE
+"Polymerase (DNA Directed), Epsilon",POLE
+DNA Polymerase Epsilon Catalytic Subunit Protein,POLE
+MMAC1,PTEN
+mutated in multiple advanced cancers 1,PTEN
+phosphatase and tensin homolog (mutated in multiple advanced cancers 1),PTEN
+phosphatase and tensin homolog deleted on chromosome 10,PTEN
+protein-tyrosine phosphatase PTEN,PTEN
+PTEN-MMAC1 protein,PTEN
+PTEN1,PTEN
+PTEN_HUMAN,PTEN
+TEP1,PTEN
+TEP1 phosphatase,PTEN
+Phosphatase And Tensin Homolog,PTEN
+"Phosphatidylinositol 3,4,5-Trisphosphate 3-Phosphatase And Dual-Specificity Protein Phosphatase PTEN",PTEN
+"Phosphatidylinositol-3,4,5-Trisphosphate 3-Phosphatase And Dual-Specificity Protein Phosphatase PTEN",PTEN
+MMAC1 Phosphatase And Tensin Homolog Deleted On Chromosome 10,PTEN
+Mitochondrial Phosphatase And Tensin Protein Alpha,PTEN
+Phosphatase And Tensin-Like Protein,PTEN
+Mitochondrial PTENalpha,PTEN
+EC 3.1.3.16,PTEN
+EC 3.1.3.48,PTEN
+EC 3.1.3.67,PTEN
+PTENbeta,PTEN
+GLM2,PTEN
+MHAM,PTEN
+DEC,PTEN
+BZS,PTEN
+CWS1,PTEN
+NBSLD,RAD50
+RAD502,RAD50
+RAD50 Double Strand Break Repair Protein,RAD50
+"RAD50 Homolog, Double Strand Break Repair Protein",RAD50
+RAD50 (S. Cerevisiae) Homolog,RAD50
+DNA Repair Protein RAD50,RAD50
+EC 3.6.3.27,RAD50
+EC 3.6.1.15,RAD50
+EC 3.6.-.-,RAD50
+EC 3.6.3,RAD50
+BROVCA3,RAD51C
+FANCO,RAD51C
+R51H3,RAD51C
+RAD51L2,RAD51C
+RAD51 Paralog C,RAD51C
+RAD51-Like Protein 2,RAD51C
+DNA Repair Protein RAD51 Homolog 3,RAD51C
+RAD51 (S. Cerevisiae) Homolog C,RAD51C
+RAD51 Homolog C (S. Cerevisiae),RAD51C
+Yeast RAD51 Homolog 3,RAD51C
+RAD51 Homolog C,RAD51C
+BROVCA4,RAD51D
+R51H3,RAD51D
+RAD51L3,RAD51D
+DNA Repair Protein RAD51 Homolog 4,RAD51D
+RAD51 Paralog D,RAD51D
+Recombination Repair Protein,RAD51D
+RAD51-Like Protein D,RAD51D
+RAD51 Homolog D,RAD51D
+TRAD,RAD51D
+RAD51 Homolog D (S. Cerevisiae),RAD51D
+RAD51 (S. Cerevisiae)-Like 3,RAD51D
+RAD51-Like 3 (S. Cerevisiae),RAD51D
+DPC4,SMAD4
+JIP,SMAD4
+"MAD (mothers against decapentaplegic, Drosophila) homolog 4",SMAD4
+"MAD, mothers against decapentaplegic homolog 4",SMAD4
+"MAD, mothers against decapentaplegic homolog 4 (Drosophila)",SMAD4
+MADH4,SMAD4
+"Mothers against decapentaplegic, Drosophila, homolog of, 4",SMAD4
+"SMAD, mothers against DPP homolog 4 (Drosophila)",SMAD4
+SMAD4_HUMAN,SMAD4
+SMAD Family Member 4,SMAD4
+Deletion Target In Pancreatic Carcinoma 4,SMAD4
+MAD Homolog 4,SMAD4
+Mothers Against Decapentaplegic Homolog 4,SMAD4
+Deleted In Pancreatic Carcinoma Locus 4,SMAD4
+"SMAD, Mothers Against DPP Homolog 4",SMAD4
+Mothers Against DPP Homolog 4,SMAD4
+SMAD 4,SMAD4
+MYHRS,SMAD4
+LKB1,STK11
+PJS,STK11
+STK11_HUMAN,STK11
+serine/threonine kinase 11 (Peutz-Jeghers syndrome),STK11
+Serine/threonine-protein kinase 11,STK11
+Serine/Threonine Kinase 11,STK11
+Polarization-Related Protein LKB1,STK11
+Renal Carcinoma Antigen NY-REN-19,STK11
+Liver Kinase B1,STK11
+EC 2.7.11.1,STK11
+HLKB1,STK11
+Serine/Threonine-Protein Kinase STK11,STK11
+Serine/Threonine-Protein Kinase LKB11,STK11
+cellular tumor antigen p53,TP53
+P53 tumor suppressor,TP53
+P53_HUMAN,TP53
+phosphoprotein p53,TP53
+transformation-related protein 53,TP53
+TRP53,TP53
+tumor protein p53 (Li-Fraumeni syndrome),TP53
+tumor suppressor p53,TP53
+Tumor Protein P53,TP53
+Antigen NY-CO-13,TP53
+Mutant Tumor Protein 53,TP53
+Li-Fraumeni Syndrome,TP53
+Tumor Supressor P53,TP53
+Tumor Protein 53,TP53
+BCC7,TP53
+LFS1,TP53
+FANCD1,BRCA2
+DNA-mismatch-repair,Lynch Gene
+HNPCC,Lynch Gene
+lynch syndrome,Lynch Gene
+retinoblastoma 1,RB1
+retinoblastoma-1,RB1
+RB1,RB1
+CHEK2/1100delC,CHEK2
+MUTYH-Biallelic,MUTYH-Biallelic
+"MUTYH-Biallelic/Compound Heterozygous
+MUTYH-Biallelic/Compound Heterozygous","MUTYH-Biallelic/Compound Heterozygous
+MUTYH-Biallelic/Compound Heterozygous"
+MUTYH-Biallelic/G396D,MUTYH-Biallelic/G396D
+MUTYH-Monoallelic,MUTYH
+NBN/657del5,NBN
+ataxia-telangiectasia (A-T) gene,ATM
+LKB1,LKB1
+ABCC9,ABCC9
+ACTC,ACTC
+ACTN2,ACTN2
+APC,APC
+hAPC,APC
+ATM,ATM
+hATM,ATM
+A-T mutation,ATM
+BARD1,BARD1
+hBARD1,BARD1
+BMPR1A,BMPR1A
+hBMPR1A,BMPR1A
+BRCA,BRCA1
+hBRCA,BRCA1
+BRCA1,BRCA1
+17q-linked,BRCA1
+hBRCA1,BRCA1
+BRCA2,BRCA2
+hBRCA2,BRCA2
+FANCJ,BRIP1
+BRIP1,BRIP1
+hBRIP1,BRIP1
+epithelial cadherin,CDH1
+CDH1,CDH1
+e-cadherin,CDH1
+epithelial-cadherin,CDH1
+cadherin,CDH1
+hCDH1,CDH1
+CDK4,CDK4
+hCDK4,CDK4
+CDKN1B,CDKN1B
+P14,CDKN2A
+ARF,CDKN2A
+CMM2,CDKN2A
+INK4A,CDKN2A
+MLM,CDKN2A
+MTS1,CDKN2A
+CDK4I,CDKN2A
+CDKN2A,CDKN2A
+P16,CDKN2A
+TP16,CDKN2A
+P19,CDKN2A
+P14ARF,CDKN2A
+CDKN2,CDKN2A
+INK4,CDKN2A
+P16INK4A,CDKN2A
+P16INK4,CDKN2A
+MTS-1,CDKN2A
+P16-INK4A,CDKN2A
+P19ARF,CDKN2A
+hCDKN2A/p14,CDKN2A
+CDKN2A/p14,CDKN2A
+hCDKN2A/p16,CDKN2A
+CDKN2A/p16,CDKN2A
+p16,CDKN2A
+CHEK1,CHEK1
+CHEK2,CHEK2
+Checkpoint kinase 2,CHEK2
+CHK2,CHEK2
+hCHEK2,CHEK2
+cell cycle checkpoint kinase 2,CHEK2
+CSRP3,CSRP3
+CTF1,CTF1
+DES,DES
+DSC2,DSC2
+DSG2,DSG2
+DSP,DSP
+EMD,EMD
+EPCAM,EPCAM
+Epithelial cell adhesion molecule,EPCAM
+hEPCAM,EPCAM
+GLA,GLA
+GREM1,GREM1
+hGREM1,GREM1
+HOXB13,HOXB13
+LAMP2,LAMP2
+LDB3,LDB3
+LMNA,LMNA
+MMR,Lynch Gene
+DNA Mismatch Repair gene,Lynch Gene
+mismatch repair mmr genes,Lynch Gene
+mismatch repair,Lynch Gene
+mismatch repair (mmr) genes,Lynch Gene
+Mismatch Repair genes,Lynch Gene
+dna mismatch-repair,Lynch Gene
+dna mismatch repair mmr,Lynch Gene
+DNA mismatch repair,Lynch Gene
+DNA-mismatch repair,Lynch Gene
+Mismatch Repair gene,Lynch Gene
+Menin,MEN1
+MEN1,MEN1
+MLH1,MLH1
+Mutl Homolog,MLH1
+hMLH1,MLH1
+MLH3,MLH3
+MSH2,MSH2
+hMSH2,MSH2
+MSH6,MSH6
+hMSH6,MSH6
+MSI,MSI
+Microsatellite Instability,MSI
+msi-h,MSI
+microsatellite-stable,MSI
+MUTYH Biallelic,MUTYH
+MYH,MUTYH
+MUTYH Monoallelic,MUTYH
+MUTYH,MUTYH
+hMUTYH Monoallelic,MUTYH
+hMUTYH Biallelic,MUTYH
+hmutyh,MUTYH
+MYBPC3,MYBPC3
+MYH7,MYH7
+MYL2,MYL2
+MYL3,MYL3
+NBS1,NBN
+NBN,NBN
+NBN/NBS1,NBN
+hNBN,NBN
+NF1,NF1
+NF2,NF2
+FANCN,PALB2
+Partner and Localizer Of BRCA2,PALB2
+PALB2,PALB2
+hPALB2,PALB2
+PKP2,PKP2
+PLN,PLN
+PMS1,PMS1
+hPMS1,PMS1
+PMS2,PMS2
+hPMS2,PMS2
+POLD1,POLD1
+hPOLD1,POLD1
+POLE,POLE
+hPOLE,POLE
+PRKAG2,PRKAG2
+PTEN,PTEN
+hPTEN,PTEN
+RAD50,RAD50
+hRAD50,RAD50
+RAD51,RAD51
+RAD51C,RAD51C
+hRAD51C,RAD51C
+RAD51D,RAD51D
+hRAD51D,RAD51D
+RET,RET
+SDHA,SDHA
+SDHAF2,SDHAF2
+SDHB,SDHB
+SDHC,SDHC
+SDHD,SDHD
+SGCD,SGCD
+SMAD4,SMAD4
+hSMAD4,SMAD4
+STK11,STK11
+hSTK11,STK11
+TAZ,TAZ
+TCAP,TCAP
+TMEM43,TMEM43
+TNNI3,TNNI3
+TNNT2,TNNT2
+TP53,TP53
+P53,TP53
+TPM1,TPM1
+VCL,VCL
+VHL,VHL
+adenomatous polyposis coli,APC
+APC_HUMAN,APC
+DP2,APC
+DP2.5,APC
+DP3,APC
+FAP,APC
+FPC,APC
+GS,APC
+PPP1R46,APC
+WNT signaling pathway regulator,APC
+BAP1,BAP1
+MITF,MITF
+BLM,BLM
+DICER1,DICER1
+FANCC,FANCC
+FH,FH
+GALNT12,GALNT12
+MAX,MAX
+MET,MET
+MRE11A,MRE11
+SMARCA4,SMARCA4
+TMEM127,TMEM127
+TSC1,TSC1
+TSC2,TSC2
+XRCC2,XRCC2
+ALK,ALK
+PHOX2B,PHOX2B
+PRKAR1A,PRKAR1A
+PTCH1,PTCH1
+SMARCB1,SMARCB1
+SUFU,SUFU
+POT1,POT1
+SMARCE1,SMARCE1
+AIP,AIP
+NTHL1,NTHL1
+AXIN2,AXIN2
+CDC73,CDC73
+CTNNA1,CTNNA1
+PIK3CA,PIK3CA
+FANCA,FANCA
+FANCE,FANCE
+FANCF,FANCF
+FANCG,FANCG
+FANCI,FANCI
+FANCL,FANCL
+KIT,KIT
+PDGFRA,PDGFRA
+SLX4,SLX4
+PRSS1,PRSS1
+MSH3,MSH3
+RPS20,RPS20
+CASR,CASR
+WT1,WT1
+FANCD2,FANCD2
+BUB1B,BUB1B
+CEBPA,CEBPA
+DIS3L2,DIS3L2
+EGFR,EGFR
+ERCC4,ERCC4
+FANCM,FANCM
+GATA2,GATA2
+HRAS,HRAS
+RECQL4,RECQL4
+RUNX1,RUNX1
+WRN,WRN
+TERC,TERC
+TERT,TERT
+GPC3,GPC3
+CDKN1C,CDKN1C
+SPINK1,SPINK1
+CTFR,CTFR
+CTRC,CTRC
+CPA1,CPA1
+ATR,ATR
+CYLD,CYLD
+DDB2,DDB2
+ERCC2,ERCC2
+ERCC3,ERCC3
+ERCC5,ERCC5
+EXT1,EXT1
+EXT2,EXT2
+FAH,FAH
+LDLR,LDLR
+PMS2 postmeiotic segregation increased 2,PMS2
+postmeiotic segregation increased 2,PMS2
+IMAGEI,POLE
+BRCC5,RAD51
+DNA repair protein RAD51 homolog 1,RAD51
+HRAD51,RAD51
+HsRAD51,RAD51
+RAD51 homolog,RAD51
+RAD51_HUMAN,RAD51
+RAD51A,RAD51
+RECA,RAD51
+RecA-like protein,RAD51
+"RecA, E. coli, homolog of",RAD51
+recombination protein A,RAD51
+cadherin family member 12,RET
+cadherin-related family member 16,RET
+CDHF12,RET
+CDHR16,RET
+HSCR1,RET
+hydroxyaryl-protein kinase,RET
+MEN2A,RET
+MEN2B,RET
+MTC1,RET
+PTC,RET
+rearranged during transfection,RET
+RET-ELE1,RET
+ret proto-oncogene,RET
+RET/PTC,RET
+RET51,RET
+RET_HUMAN,RET
+CMD1GG,SDHA
+DHSA_HUMAN,SDHA
+flavoprotein subunit of complex II,SDHA
+FP,SDHA
+SDH1,SDHA
+SDH2,SDHA
+SDHF,SDHA
+"succinate dehydrogenase flavoprotein subunit, mitochondrial",SDHA
+succinate dehydrogenase complex flavoprotein subunit,SDHA
+"succinate dehydrogenase complex subunit A, flavoprotein",SDHA
+"succinate dehydrogenase complex, subunit A, flavoprotein",SDHA
+C11orf79,SDHAF2
+FLJ20487,SDHAF2
+hSDH5,SDHAF2
+PGL2,SDHAF2
+SDH assembly factor 2,SDHAF2
+SDH5,SDHAF2
+SDHF2_HUMAN,SDHAF2
+"succinate dehydrogenase assembly factor 2, mitochondrial",SDHAF2
+"succinate dehydrogenase subunit 5, mitochondrial",SDHAF2
+DHSB_HUMAN,SDHB
+FLJ92337,SDHB
+IP,SDHB
+iron-sulfur subunit of complex II,SDHB
+PGL4,SDHB
+SDH,SDHB
+SDH1,SDHB
+SDH2,SDHB
+SDHIP,SDHB
+"succinate dehydrogenase iron-sulfur subunit, mitochondrial",SDHB
+"succinate dehydrogenase iron-sulfur subunit, mitochondrial precursor",SDHB
+"succinate dehydrogenase complex subunit B, iron sulfur",SDHB
+"succinate dehydrogenase complex, subunit B, iron sulfur",SDHB
+C560_HUMAN,SDHC
+CYB560,SDHC
+CYBL,SDHC
+cytochrome B large subunit of complex II,SDHC
+integral membrane protein CII-3,SDHC
+integral membrane protein CII-3b,SDHC
+PGL3,SDHC
+QPs-1,SDHC
+QPS1,SDHC
+SDH3,SDHC
+"succinate dehydrogenase complex, subunit C, integral membrane protein, 15kDa",SDHC
+"succinate dehydrogenase cytochrome b560 subunit, mitochondrial",SDHC
+succinate-ubiquinone oxidoreducatase cytochrome B large subunit,SDHC
+succinate-ubiquinone oxidoreductase cytochrome B large subunit,SDHC
+CBT1,SDHD
+CII-4,SDHD
+cybS,SDHD
+DHSD_HUMAN,SDHD
+PGL,SDHD
+PGL1,SDHD
+QPs3,SDHD
+SDH4,SDHD
+"succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial",SDHD
+"succinate dehydrogenase complex subunit D, integral membrane protein",SDHD
+"succinate dehydrogenase complex, subunit D, integral membrane protein",SDHD
+succinate dehydrogenase ubiquinone cytochrome B small subunit,SDHD
+succinate-ubiquinone oxidoreductase cytochrome b small subunit,SDHD
+succinate-ubiquinone reductase membrane anchor subunit,SDHD
+elongin binding protein,VHL
+pVHL,VHL
+VHL1,VHL
+VHL_HUMAN,VHL
+"von Hippel-Lindau tumor suppressor, E3 ubiquitin protein ligase",VHL
+ATM-Biallellic,ATM-Biallelic
+BLM-Biallellic,BLM-Biallelic
+BRCA1-Biallellic,BRCA1-Biallelic
+BRCA2-Biallellic,BRCA2-Biallelic
+BRIP1-Biallellic,BRIP1-Biallelic
+LDLRAP1,LDLRAP1
+MRE11,MRE11
+NTRK1,NTRK1
+PCSK9,PCSK9
+RAD51B,RAD51B
+RHBDF2,RHBDF2
+SBDS,SBDS
+XPA,XPA
+XPC1,XPC1
+RNF43,RNF43
+ACD,ACD
+ETV6,ETV6
+PARK2,PARK2
+PMS3,PMS3
+RECQL,RECQL
+"bone morphogenetic protein receptor, type IA",BMPR1A
+"bone morphogenetic protein receptor, type IA precursor",BMPR1A
+BRCA1 gene,BRCA1
+breast cancer 1,BRCA1
+"breast cancer 1, early onset",BRCA1
+brca 2 gene,BRCA2
+BRCA2_HUMAN,BRCA2
+breast cancer 2,BRCA2
+"breast cancer 2, early onset",BRCA2
+"cadherin 1, E-cadherin",CDH1
+"cadherin 1, type 1, E-cadherin",CDH1
+CDKN4,CDKN1B
+CDN1B_HUMAN,CDKN1B
+cyclin-dependent kinase inhibitor 1B,CDKN1B
+"cyclin-dependent kinase inhibitor 1B (p27, Kip1)",CDKN1B
+KIP1,CDKN1B
+P27KIP1,CDKN1B
+CDK4 inhibitor p16-INK4,CDKN2A
+CHK2 checkpoint homolog,CHEK2
+MEAI,MEN1
+MEN1_HUMAN,MEN1
+multiple endocrine neoplasia I,MEN1
+"mutL homolog 1, colon cancer, nonpolyposis type 2",MLH1
+HNPCC7,MLH3
+"mutS homolog 2, colon cancer, nonpolyposis type 1",MSH2
+mutS homolog 6,MSH6
+Neurofibromatosis-related protein NF-1,NF1
+Neurofibromatosis Type 1 Protein,NF1
+neurofibromin 1,NF1
+NF1-GAP-Related Protein,NF1
+NF1 GRP,NF1
+NF1 Protein,NF1
+NF1_HUMAN,NF1
+ACN,NF2
+BANF,NF2
+MERL_HUMAN,NF2
+merlin,NF2
+moesin-ezrin-radixin-like protein,NF2
+SCH,NF2
+schwannomerlin,NF2
+schwannomin,NF2
+HNPCC3,PMS1
+MLH2,PMS1
+PMSL1,PMS1
+BUB1B-Biallellic,BUB1B-Biallelic
+CASR-Biallellic,CASR-Biallelic
+CDKN1B-Biallellic,CDKN1B-Biallelic
+CEP57-Biallellic,CEP57-Biallelic
+CFTR-Biallellic,CFTR-Biallelic
+CTC1-Biallellic,CTC1-Biallelic
+DDB2-Biallelic,DDB2-Biallelic
+DIS3L2-Biallellic,DIS3L2-Biallelic
+EPCAM-Biallelic,EPCAM-Biallelic
+ERCC2-Biallelic,ERCC2-Biallelic
+ERCC3-Biallelic,ERCC3-Biallelic
+ERCC4-Biallelic,ERCC4-Biallelic
+ERCC4-Biallelic,ERCC4-Biallelic
+ERCC4-Biallellic,ERCC4-Biallelic
+ERCC5-Biallelic,ERCC5-Biallelic
+FANCA-Biallellic,FANCA-Biallelic
+FANCC-Biallellic,FANCC-Biallelic
+FANCD2-Biallellic,FANCD2-Biallelic
+FANCE-Biallellic,FANCE-Biallelic
+FANCF-Biallellic,FANCF-Biallelic
+FANCG-Biallellic,FANCG-Biallelic
+FANCL-Biallellic,FANCL-Biallelic
+FANCM-Biallellic,FANCM-Biallelic
+FH-Biallellic,FH-Biallelic
+GPC3-Biallellic,GPC3-Biallelic
+LDLRAP1-Biallelic,LDLRAP1-Biallelic
+LMNA-Biallelic,LMNA-Biallelic
+MLH1-Biallelic,MLH1-Biallelic
+MRE11-Biallellic,MRE11-Biallelic
+MSH2-Biallelic,MSH2-Biallelic
+MSH3-Biallellic,MSH3-Biallelic
+MSH6-Biallelic,MSH6-Biallelic
+NBN-Biallellic,NBN-Biallelic
+NHP2-Biallellic,NHP2-Biallelic
+NOP10-Biallellic,NOP10-Biallelic
+NTHL1-Biallellic,NTHL1-Biallelic
+PALB2-Biallellic,PALB2-Biallelic
+PMS2-Biallelic,PMS2-Biallelic
+RAD50-Biallellic,RAD50-Biallelic
+RAD51-Biallellic,RAD51-Biallelic
+RAD51C-Biallellic,RAD51C-Biallelic
+RECQL4-Biallellic,RECQL4-Biallelic
+RECQL4-Biallellic,RECQL4-Biallelic
+RECQL4-Biallellic,RECQL4-Biallelic
+SDHA-Biallellic,SDHA-Biallelic
+SDHB-Biallellic,SDHB-Biallelic
+SLX4-Biallellic,SLX4-Biallelic
+SPINK1-Biallellic,SPINK1-Biallelic
+VHL-Biallellic,VHL-Biallelic
+WRN-Biallellic,WRN-Biallelic
+XPA-Biallelic,XPA-Biallelic
+XRCC2-Biallelic,XRCC2-Biallelic
+POLE-Biallelic,POLE-Biallelic
+SIL1,SIL1
+IL1B,IL1B
+IL1RN,IL1RN
+KRAS,KRAS
+BCS1L,BCS1L
+COX10,COX10
+COX15,COX15
+FOXRED1,FOXRED1
+NDUFA10,NDUFA10
+NDUFA12,NDUFA12
+NDUFA2,NDUFA2
+NDUFA9,NDUFA9
+NDUFAF2,NDUFAF2
+NDUFAF6,NDUFAF6
+NDUFS3,NDUFS3
+NDUFS4,NDUFS4
+NDUFS7,NDUFS7
+NDUFS8,NDUFS8
+SURF1,SURF1
+CCND1,CCND1
+RPL11,RPL11
+RPL26,RPL26
+RPL35A,RPL35A
+RPL5,RPL5
+RPS10,RPS10
+RPS19,RPS19
+RPS24,RPS24
+RPS26,RPS26
+RPS7,RPS7
+CFTR,CFTR
+CEP57,CEP57
+CTC1,CTC1
+NHP2,NHP2
+NOP10,NOP10
+MLH1-Biallelic,MLH1-Biallelic
+PMS2-Biallelic,PMS2-Biallelic
+JUP,JUP
+TTC37,TTC37
+SKIV2L,SKIV2L
+AR,AR
+CTNND1,CTNND1
+SCN5A,SCN5A
+GJB6,GJB6
+FOXP3,FOXP3
+XK,XK
+DKC1,DKC1
+ENG,ENG
+EZH2,EZH2
+FANCB,FANCB
+GATA1,GATA1
+GATA1,GATA1
+MC1R,MC1R
+PTCH2,PTCH2
+PTCH2,PTCH2
+SPRED1,SPRED1
+ATRX,ATRX
+RAD54L,RAD54L
+CDK12,CDK12
+DMC1,DMC1
+PPP2R2A,PPP2R2A
+RAD52,RAD52
+EME1,EME1
+ATRX,ATRX
+CDK12,CDK12
+DMC1,DMC1
+EME1,EME1
+EME2,EME2
+FAM175A ,ABRAXAS1
+FLCN,FLCN
+GEN1,GEN1
+MUS81,MUS81
+PPP2R2A,PPP2R2A
+RAD52,RAD52
+RAD54L,RAD54L
+RBBP8,RBBP8
+SLX1A,SLX1A
+XRCC3,XRCC3
+TP53BP1,TP53BP1
+XPC,XPC
+WWP1,WWP1
+FOXE1,FOXE1
+HABP2,HABP2
+MRE11A,MRE11A
+MSR1,MSR1
+NKX2-1,NKX2-1
+SEC23B,SEC23B
+SRGAP1,SRGAP1
+ABRAXAS1,ABRAXAS1
+EGLN1,EGLN1
+ABC35,CFTR
+KIF1B,KIF1B
+LZTR1,LZTR1
+PALLD,PALLD
+CCDC98,ABRAXAS1
+SIH002,PALLD
+PNCA1,PALLD
+MYN,PALLD
+CGI151,PALLD
+CGI-151,PALLD
+BTBD29,LZTR1
+leucine-zipper-like transcriptional regulator 1,LZTR1
+LZTR-1,LZTR1
+NS10,LZTR1
+SWNTS2,LZTR1
+CMT2,KIF1B
+CMT2A,KIF1B
+HMSNII,KIF1B
+KIAA0591,KIF1B
+KIAA1488,KIF1B
+KIF1B_HUMAN,KIF1B
+KLP,KIF1B
+ECYT3,EGLN1
+ZMYND6,EGLN1
+zinc finger MYND domain-containing protein 6,EGLN1
+prolyl hydroxylase domain-containing protein 2,EGLN1
+PHD2,EGLN1
+hypoxia-inducible factor prolyl hydroxylase 2,EGLN1
+HPH2,EGLN1
+"HPH-2
+HIFPH2",EGLN1
+egl nine homolog 1,EGLN1
+EGLN1_HUMAN,EGLN1
+"HIF-prolyl hydroxylase 2
+egl nine homolog 1 (C. elegans)",EGLN1
+egl nine-like protein 1,EGLN1
+HIF-PH2,EGLN1
+HIF prolyl hydroxylase 2,EGLN1
+egl-9 family hypoxia-inducible factor 1,EGLN1
+HIF PH2,EGLN1
+ERCC1,ERCC1
+FAN1,FAN1
+POLH,POLH
+WRAP53,WRAP53
+SLC45A2,SLC45A2
+TINF2,TINF2
+TYR,TYR
+MAP3K6,MAP3K6
+PTCSC3,PTCSC3
+PTCSC2,PTCSC2
+PTCSC1,PTCSC1
+FBXO24,FBXO24
+DOT1L,DOT1L
+INSR,INSR
+EHBP1,EHBP1
+ELAC2,ELAC2
+FAT4,FAT4
+FGFR3,FGFR3
+FLT3,FLT3
+HPC1,HPC1
+IGF2R,IGF2R
+ABCC7,CFTR
+CFTR/MRP,CFTR
+TNR-CFTR,CFTR
+dJ760C5.1,CFTR
+CAP,CAP1
+CAP1-PEN,CAP1
+FAM6A,DIS3L2
+PRLMNS,DIS3L2
+hDIS3L2,DIS3L2
+ERBB,EGFR
+HER1,EGFR
+mENA,EGFR
+ERBB1,EGFR
+PIG61,EGFR
+NISBD2,EGFR
+ANKRD26,ANKRD26
+ARMC5,ARMC5
+ASXL1,ASXL1
+PHOXB2,PHOXB2
+TRIM37,TRIM37
+10q23del,BMPR1A
+10q23del,PTEN
+ABRA1,ABRAXAS1
+ACRDYS1,PRKAR1A
+ADOHR,PRKAR1A
+ALK1,ALK
+AML1,RUNX1
+AML1-EVI-1,RUNX1
+AMLCR1,RUNX1
+AUTS9,MET
+aviD,DICER1
+AWT1,WT1
+BAF190,SMARCA4
+BAF190A,SMARCA4
+BAF47,SMARCB1
+BAF57,SMARCE1
+BCDS1,CDH1
+BCNS,PTCH1
+BerEp4,EPCAM
+Ber-Ep4,EPCAM
+BHD,FLCN
+bHLHd4,MAX
+bHLHe32,MITF
+BMFS5,TP53
+"BRCA2_HUMAN
+BRCC2",BRCA2
+BRG1,SMARCA4
+BS,BLM
+C1orf12,EGLN1
+CAP102,CTNNA1
+C-BAS/HAS,HRAS
+CBF2alpha,RUNX1
+CBFA2,RUNX1
+CCHS,PHOX2B
+CD117,KIT
+CD140A,PDGFRA
+C-HA-RAS1,HRAS
+C-H-RAS,HRAS
+C-Kit,KIT
+c-Met,MET
+CMM10,POT1
+CMM8,MITF
+CMM9,TERT
+CMT2A1,KIF1B
+CNC,PRKAR1A
+CNC1,PRKAR1A
+COMMAD,MITF
+CPA,CPA1
+CRCS1,GALNT12
+CSS3,SMARCB1
+CSS4,SMARCA4
+CSS5,SMARCE1
+CTLO,HRAS
+CWS2,SDHB
+DCML,GATA2
+DCR1,DICER1
+DENND8B,FLCN
+DESMD,APC
+DFNB97,MET
+DGSX,GPC3
+Dicer,DICER1
+Dicer1e,DICER1
+DKCA1,TERC
+DKCA2,TERT
+DKCB4,TERT
+DUP,MSH3
+EGP314,EPCAM
+ERRP,EGFR
+EST2,TERT
+EVI-1,RUNX1
+FA3,FANCC
+FAC,FANCC
+FACC,FANCC
+FANCU,XRCC2
+FAP3,NTHL1
+FAP4,MSH3
+FLCL,FLCN
+FMRD,FH
+GalNAc-T12,GALNT12
+GLM9,POT1
+GLOW,DICER1
+GTR2-2,GPC3
+GUD,WT1
+HALAH,EGLN1
+HAMSV,HRAS
+HERNA,DICER1
+hEST2,TERT
+HGFR,MET
+HIFPH2,EGLN1
+"HIF-prolyl hydroxylase 2
+egl nine homolog 1 (C. elegans)",EGLN1
+HLRCC,FH
+hNTH1,NTHL1
+HPC9,HOXB13
+HPH-2,EGLN1
+HPOT1,POT1
+HRAS1,HRAS
+H-RASIDX,HRAS
+HRCA1,VHL
+HsFH,FH
+hSNF2b,SMARCA4
+hSNFS,SMARCB1
+hTR,TERC
+hTRT,TERT
+ILFS3,RINT1
+IMD21,GATA2
+INI1,SMARCB1
+INI-1,SMARCB1
+JBTS32,SUFU
+K12H4.8-LIKE,DICER1
+LAM,TSC1
+LAM,TSC2
+LRCC,FH
+MASTC,KIT
+MC2DN1,SDHA
+MC2DN4,SDHB
+MCL,FH
+MCUL1,FH
+MDPT2,CTNNA1
+MEN1B,CDKN1B
+MEN4,CDKN1B
+MGRISCE1,BLM
+MI,MITF
+MITF-A,MITF
+MLH-1,MLH1
+MMRCS1,MLH1
+MMRCS2,MSH2
+MMRCS3,MSH6
+MMRCS4,PMS2
+MNG1,DICER1
+MONOMAC,GATA2
+MRD15,SMARCB1
+MRD16,SMARCA4
+MRP1,MSH3
+MSH-2,MSH2
+MSH-6,MSH6
+MXR7,GPC3
+NBCCS,PTCH1
+NBLST1,KIF1B
+NBLST2,PHOX2B
+NBPhox,PHOX2B
+NDAXOA,SDHA
+NFE1B,GATA2
+NFNS,NF1
+NPHS4,WT1
+NS2,LZTR1
+NTH1,NTHL1
+OCI-5,GPC3
+OCTS3,NTHL1
+OF,BRIP1
+OSRC,RB1
+p105-Rb,RB1
+p110-RB1,RB1
+p21ras,HRAS
+PBT,KIT
+PCTT,SPINK1
+PDGFR2,PDGFRA
+PDGFR-2,PDGFRA
+PEBP2aB,RUNX1
+PEBP2alpha,RUNX1
+PFBMFT1,TERT
+PFBMFT2,TERC
+PGL5,SDHA
+PKR1,PRKAR1A
+PMS-2,PMS2
+PMX2B,PHOX2B
+POF17,XRCC2
+pp110,RB1
+PPNAD1,PRKAR1A
+PPP1R130,RB1
+PPP1R144,SMARCB1
+PPP1R160,TSC2
+pRb,RB1
+PRKAR1,PRKAR1A
+PRO1280,SUFU
+PSTI,SPINK1
+PTC1,PTCH1
+PTCH,PTCH1
+RASH1,HRAS
+RB,RB1
+RCA1,VHL
+RCCP2,MET
+RDT,SMARCB1
+RecQ1,RECQL
+RECQ2,BLM
+RECQ3,WRN
+RECQ4,RECQL4
+RECQL1,RECQL
+RECQL2,BLM
+RECQL2,WRN
+RECQL3,BLM
+RECQL3,WRN
+RINT-1,RINT1
+RMSE2,DICER1
+RTPS1,SMARCB1
+RTPS2,SMARCA4
+S20,RPS20
+SCARNA19,TERC
+SCFR,KIT
+SCG2,MEN1
+SDYS,GPC3
+Sfh1p,SMARCB1
+SGB,GPC3
+SGBS,GPC3
+SGBS1,GPC3
+SM20,EGLN1
+SNF2,SMARCA4
+SNF2-beta,SMARCA4
+SNF2L4,SMARCA4
+SNF2LB,SMARCA4
+SNF5,SMARCB1
+SNF5L1,SMARCB1
+Snr1,SMARCB1
+SPGF50,XRCC2
+Spink3,SPINK1
+SUFUH,SUFU
+SUFUXL,SUFU
+SWI2,SMARCA4
+SWNTS1,SMARCB1
+TATI,SPINK1
+TCP,SPINK1
+TCS1,TERT
+TP2,TERT
+TR,TERC
+TRC3,TERC
+TRP1,PRSS1
+TRT,TERT
+TRY1,PRSS1
+TRY4,PRSS1
+TRYP1,PRSS1
+TSC,TSC1
+TSC4,TSC2
+TSE1,PRKAR1A
+uS10,RPS20
+VRNF,NF1
+WAGR,WT1
+WIT-2,WT1
+WS2,MITF
+WS2A,MITF
+WSS,NF1
+WT-1,WT1
+WT33,WT1
+Glypican 3,GPC3

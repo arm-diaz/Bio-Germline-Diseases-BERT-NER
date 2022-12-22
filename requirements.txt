@@ -1,0 +1,7 @@
+torch
+pandas
+transformers
+nltk
+wordcloud
+ipykernel
+neo4j

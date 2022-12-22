@@ -1,0 +1,1086 @@
+﻿GeneMasterName,DiseaseName,PredominantCancerSubtype,Organ,OldDiseaseName,Z_Old_DiseaseName
+CFTR,Lung (Benign),Bronchiectasis,Lung,Lung cyst,Lung (Benign)
+CFTR,Cystic fibrosis,Metabolic,Metabolic,Lung cyst,Cystic fibrosis
+CFTR,Genitourinary (Benign),Congenital bilateral absence of the vas deferens,Genitals,Genitourinary anomalies,Genitourinary Anomalies
+EGLN1,Blood (Benign),Familial erythrocytosis,Blood,Leukemia,Leukemia
+EGLN1,Pheochromocytoma/Paraganglioma,Paraganglioma,Nerve,Paraganglioma,Neuroendocrine
+CDC73,Uterus Neoplasm,Uterine Tumors,Uterus,,
+CDC73,Kidney (Benign),Renal cysts,Kidney,Jaw tumor,Kidney Neoplasm
+AXIN2,Breast Cancer,,Breast,Colorectal cancer,
+CDC73,Kidney Neoplasm,Renal hamartomas,Kidney,Jaw tumor,Kidney Neoplasm
+CDC73,Uterus Neoplasm,Uterine Tumors,Uterus,,
+CDC73,Wilms Tumor,Nephroblastoma,Kidney,Wilm's Tumor,Wilms Tumor
+HRAS,Dysmorphic Feature,"Coarse facial features, curly or sparse, fine hair, loose, soft skin",Face,,
+APC,Thyroid Cancer,,Thyroid,Colorectal cancer,Colorectal Cancer
+ALK,Adrenal Cortical Carcinoma,,Adrenal,Adrenal mass,Adrenal Cortical Carcinoma
+ALK,Peripheral Nervous System Benign,Ganglioneuroma,PNS,Neuroblastoma,Neuroblastoma
+ALK,Peripheral Nervous System Cancer,Ganglioneuroblastoma,PNS,Neuroblastoma,Neuroblastoma
+FLCN,Skin (Benign),"acrochordons, angiofibromas",Skin,Fibrofolliculomas,Skin (Benign)
+FLCN,Parathyroid Neoplasm,Parathyroid Adenoma,Parathyroid,Parathyroid adenoma,Parathyroid Neoplasm
+FLCN,Brain Tumor,Pituitary Adenoma,Pituitary,Pitutary adenoma,Pituitary Neoplasm
+FLCN,Peripheral Nervous System Neoplasm,neural tissue tumor,PNS,Schwannomatosis,Peripheral Nervous System Neoplasm
+FLCN,Peripheral Nervous System Neoplasm,connective tissue nevus,PNS,Schwannomatosis,Peripheral Nervous System Neoplasm
+FLCN,Lipoma,,Skin,Subcutaneous Lipomatosis,Lipoma
+FLCN,Thyroid (Benign),Multinodular Goiter,Thyroid,Multinodular goiter,Thyroid (Benign)
+FLCN,Skin (Benign),focal cutaneous mucinosis,Skin,Subcutaneous Lipomatosis,Lipoma
+GPC3,Simpson-Golabi-Behmel syndrome,"characteristic facies, cognitive impairment, pre- and postnatal overgrowth, macrosomia, and skeletal, genitourinary, cardiac, and renal anomalies",,Neuroblastoma,Neuroblastoma
+HRAS,Developmental,Failure to thrive,CNS,,
+HRAS,Developmental,Intellectual Disability,CNS,,
+HRAS,Skin (Benign),Papillomata of the face and perianal region,Skin,,
+HRAS,Dysmorphic Feature,"Diffuse hypotonia and joint laxity, tight achilles tendons",Connective Tissue,,
+HRAS,Cardiovascular (Benign),"Cardiac hypertrophy, congenital heart defect, arrhythmia",Heart,,
+WRN,Melanoma,Acral lentiginous melanomas,Skin,Melanoma,Melanoma
+WRN,Sarcoma,Osteosarcoma,Bone,Osteosarcoma,Sarcoma (Bone)
+WRN,Thyroid Cancer,,Thyroid,Thyroid cancer,Thyroid Cancer
+WRN,Sarcoma,,Soft Tissue,Osteosarcoma,Sarcoma (Bone)
+PTCH21,Lung (Benign),Bronchiectasis,Lung,Lung cyst,Lung (Benign)
+RPS17,Metabolic,Cystic fibrosis,Metabolic,Lung cyst,Cystic fibrosis
+MUTYH-Biallelic/Compound Heterozygous,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+MUTYH,Prostate Cancer,,Prostate,Prostate cancer,Prostate Cancer
+ABRAXAS1,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian cancer
+ATM,Bladder Cancer,,Urinary Bladder,,Melanoma
+BLM,Breast Cancer,,Breast,Breast cancer,Breast cancer
+BLM,Ovarian Cancer,,Ovary,,
+BRCA1,Hepatobiliary Cancer,Cholangiocarcinoma,Bile Duct,Cholangiocarcinoma,Hepatobiliary Cancer
+BRCA2,Hepatobiliary Cancer,Cholangiocarcinoma,Bile Duct,Cholangiocarcinoma,Hepatobiliary Cancer
+GATA2,Hearing loss,,Auditory,,
+,Arthrogryposis,,Bone,,
+PDGFRA,Inflammatory fibroid polyps,,GI,,
+PDGFRA,Fibroid tumors,,GI,,
+PDGFRA,Coarse skin and facial features in addition to broad hands and feet,,General,,
+PHOX2B,Dysmorphic Feature,"Downslanting palpebral fissures, small nose and low-set, posteriorly rotated ears",General,,
+SMARCA4,Coffin-Siris syndrome,,General,,
+SMARCA4,Rhabdoid Tumour,,CNS,,
+SMARCB1,Rhabdoid Tumour,,CNS,,
+FLCN,Polyp,,Colon,,
+FLCN,Kidney Cysts,,Kidney,,
+FLCN,Colorectal Cancer,,Colorectal,,
+TERT,Cirrhosis,,Liver,,
+SMARCE1,Coffin-Siris syndrome,,General,,
+TSC1,Tuberous sclerosis complex (TSC),,General,,
+TSC1,Brain Tumor,Cortical tubers,Brain,,
+TSC1,Hamartoma,,Multiple organs,,
+TSC1,Brain Tumor,Subependymal nodules,Brain,,
+WT1,Developmental,Hemihyperplasia,Bone,Intellectual disability,Hemihyperplasia
+TERT,Pancreas (Benign),Pancreatitis,Pancreas,,
+MRE11A,Pancreas (Benign),Pancreatitis,Pancreas,,
+RPS20,Pancreas (Benign),Pancreatitis,Pancreas,,
+RAD50,Pancreas (Benign),Pancreatitis,Pancreas,,
+ABRAXAS1,Pancreas (Benign),Pancreatitis,Pancreas,,
+PTCSC2,Oropharynx (Benign),"Cleft palate
+- Bifid epiglottis",Oropharynx,,Cleft palate
+PTCSC2,Thyroid (Benign),Hypothyroid,Thyroid,,Hypothyroid
+PTCSC2,Brain Tumor,Glioblastoma Multiforme,Brain,Brain Tumor,Brain Tumor
+PTCSC3,Brain Tumor,Glioma,Brain,Brain Tumor,Brain Tumor
+PTCSC1,Thyroid Cancer,Papillary Thyroid Cancer,Thyroid,Thyroid cancer,Thyroid Cancer
+STK11,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+DICER1,Kidney (Benign),Cystic Nephroma,Kidney,,cystic nephromas
+DICER1,Thyroid Neoplasm,Thyroid Adenoma,Thyroid,,Thyroid Adenoma
+DICER1,Kidney Cancer,Renal Sarcoma,Kidney,,Renal Sarcoma
+DICER1,Eye Neoplasm,ciliary body medulloepithelioma (CBME),Eye,,CBME
+DICER1,Nasopharyngeal Neoplasm,nasal chondromesenchymal hamartoma (NCMH),Head and neck,,nasal chondromesenchymal hamartoma (NCMH)
+CDH1,Dysmorphic Feature,"Flat face , High forehead , Asymmetric face (in some patients), High anterior hairline",Face,Orofacial clefting,Facial Deformities
+CDH1,Eye (Benign),"Hypertelorism 
+- Ectropion of lower eyelids
+- Lagophthalmia
+- Megaloblepharon
+- Distichiasis",Eye,Orofacial clefting,Eye deformity
+RET,Parathyroid (Benign),Primary Hyperparathyroidism,Parathyroid,Thyroid cancer,Parathyroid
+RET,Kidney (Benign),Renal malformations (Renal Agenesis),Kidney,Thyroid cancer,Renal malformations
+RET,Skin (Benign),Cutaneous Lichen Amyloidosis,Skin,Thyroid cancer,Cutaneous Lichen Amyloidosis
+MEN1,Neuroendocrine,Gastrinoma,Pancreas,Lung Cancer,Neuroendocrine
+MEN1,Pheochromocytoma/Paraganglioma,Pheochromocytoma,Adrenal,Paraganglioma,Neuroendocrine
+MEN1,Adrenal Cortical Carcinoma,,Adrenal,Adrenocortical carcinoma,Adrenal Cortical Carcinoma
+MEN1,Adrenal Neoplasm,Adrenal Adenoma,Adrenal,Adrenal Hyperplasia,Adrenal Adenoma
+MEN1,Nasopharyngeal Neoplasm,Angiofibroma,Head and neck,Angiofibroma,Angiofibroma
+MEN1,Brain Tumor,Ependymoma,Brain,Ependymoma,Brain Tumor
+MEN1,Lipoma,,Lipid,Lipoma,Lipoma
+MEN1,Neuroendocrine,Carcinoid,Lung,Lung Cancer,Neuroendocrine
+MEN1,Pheochromocytoma/Paraganglioma,Paraganglioma,Nerve,Paraganglioma,Neuroendocrine
+MEN1,Neuroendocrine,Pancreatic Neuroendocrine Tumor,Pancreas,Pancreatic neuroendocrine tumor,Neuroendocrine
+MEN1,Parathyroid (Benign),Primary Hyperparathyroidism,Parathyroid,Parathyroid tumor,Parathyroid Neoplasm
+MEN1,Neuroendocrine,Anterior Pituitary Neuroendocrine Tumors,Pituitary,Anterior pituitary tumor,Pituitary Neoplasm
+MEN1,Thyroid Cancer,,Thyroid,Thyroid cancer,Thyroid Cancer
+BAP1,Breast Cancer,,Breast,Breast Cancer,Breast Cancer
+CDH1,Nose (Benign),Choanal atresia,Head and neck,Orofacial clefting,Nose (Benign)
+CDH1,Teeth (Benign),"Conical teeth
+- Hypodontia
+- Delayed dentition",Head and neck,Orofacial clefting,Teeth (Benign)
+CDH1,Bone (Benign),"Clinodactyly 
+- Syndactyly",Hand,Orofacial clefting,Hand (Benign)
+CDH1,Gastrointestinal (Benign),Imperforate anus,Colorectal,Orofacial clefting,Imperforate anus
+CDH1,Nails (Benign),Hypoplastic nails,Nails,Orofacial clefting,Nails (Benign)
+CDH1,Hair (Benign),"Distichiasis
+- Sparse hair",Hair,Orofacial clefting,Hair (Benign)
+CDH1,CNS (Benign),Neural tube defect,CNS,Orofacial clefting,Neural tube defect
+CDH1,Thyroid (Benign),Thyroid hypoplasia,Thyroid,Orofacial clefting,Thyroid hypoplasia
+NF1,Leukemia,Juvenile myelomonocytic leukemia,Blood,Leukemia,Leukemia
+NF1,Eye (Benign),"Glaucoma
+- Hypertelorism 
+- Hyperreflective choroidal spots",Eye,Leukemia,Glaucoma
+NF1,Blood Vessel (Benign),"Renal artery stenosis
+- Hypertension",Blood Vessel,Leukemia,Renal artery stenosis
+NF1,Bone (Benign),"Scoliosis and Bone Dysplasia
+- Spina bifida",Bone,Leukemia,Spine Deformity
+NF1,Brain Tumor,Meningioma,Brain,Leukemia,Brain Tumor
+NF1,Brain Tumor,Hypothalamic tumor,Brain,Leukemia,Brain Tumor
+NF1,Neuroendocrine,Carcinoid,Duodenum,Leukemia,Neuroendocrine
+NF1,Parathyroid Neoplasm,Parathyroid Adenoma,Parathyroid,Leukemia,Parathyroid adenoma
+BAP1,Lung Cancer,Non-Small Cell Lung Adenocarcinoma,Lung,Mesothelioma,Mesothelioma
+BAP1,Neuroendocrine,,Neuroendocrine,Thyroid cancer,Neuroendocrine
+RET,Gastrointestinal (Benign),Megacolon,Colorectal,Hirschsprung disease,megacolon
+RET,Peripheral Nervous System Neoplasm,Mucosal Neuromas,PNS,Hirschsprung disease,mucosal neuromas
+RET,Dysmorphic Feature,Marfanoid Body Habitus,Connective tissue,Hirschsprung disease,Marfanoid body habitus
+RET,GI Neoplasm,Intestinal Ganglioneuroma,GI,Hirschsprung disease,Intestinal Ganglioneuroma
+RET,Eye (Benign),Medullated corneal nerve fibers,Eye,Hirschsprung disease,Medullated corneal nerve fibers
+RET,Eye (Benign),Ectopic Lenses,Eye,Hirschsprung disease,Ectopic Lenses
+RET,Parathyroid Neoplasm,Parathyroid Adenoma,Parathyroid,Thyroid cancer,Parathyroid
+MEN1,Neuroendocrine,Carcinoid,Thymus,Lung Cancer,Neuroendocrine
+MEN1,Adrenal Cortical (Benign),Adrenal Hyperplasia,Adrenal,Adrenal Hyperplasia,Adrenal Hyperplasia
+MEN1,Brain Tumor,Meningioma,Brain,Ependymoma,Brain Tumor
+CDKN2A,Melanoma,,Skin,Squamous cell carcinoma,Melanoma
+CDKN2A,Pancreatic Cancer,Pancreatic Adenocarcinoma,Pancreas,Squamous cell carcinoma,Pancreatic adenocarcinoma
+ACD,Skin (Benign),Dyskeratosis Congenita,Skin,Dyskeratosis congenitama,Dyskeratosis Congenita
+ACD,Leukemia,AML,Blood,Leukemia,Leukemia
+ACD,Melanoma,,Skin,Melanoma,Melanoma
+ACD,Skin Cancer (Non-Melanoma),Squamous Cell Carcinoma,Skin,Squamous cell carcinoma,Squamous Cell Carcinoma
+ALK,Inflammatory Myofibroblastic Tumor,,Wound healing,Inflammatory myofibroblastic tumor,Inflammatory Myofibroblastic Tumor
+ALK,Lung Cancer,,Lung,Lung cancer,Lung Cancer
+ALK,Lymphoma,Anaplastic Large Cell Lymphoma,Nodes,Anaplastic large cell lymphoma,Lymphoma
+ALK,Peripheral Nervous System Cancer,Neuroblastoma,PNS,Neuroblastoma,Neuroblastoma
+ALK,Sarcoma,Rhabdomyosarcoma,Soft Tissue,Rhabdomyosarcoma,Sarcoma
+APC,Adrenal Cortical Carcinoma,,Adrenal,Adrenal mass,Adrenal Cortical Carcinoma
+APC,Adrenal Cortical (Benign),Primary Macronodular Adrenal Hyperplasia,Adrenal,Adrenal mass,Adrenal Hyperplasia
+APC,Cardiovascular (Benign),Bicuspid Aortic Valve,Heart,Bicuspid Aortic Valve,Bicuspid Aortic Valve
+APC,Bone Neoplasm,Osteoma,Bone,Osteoma,Bone Neoplasm
+APC,Brain Tumor,Medulloblastoma,Brain,Medulloblastoma,Brain Tumor
+APC,CHRPE,Congenital retinal pigment epithelial hypertrophy,Eye,Congenital hypertrophy of the retinal pigment epithelium (CHRPE),CHRPE
+APC,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+APC,Colorectal Neoplasia,Colorectal Polyps,Colorectal,Colorectal Polyps,Colorectal Polyp
+APC,Teeth (Benign),Supranummary teeth (Odontoma),Head and neck,Dental abnormality,Dental Abnormality
+APC,Soft Tissue Neoplasm,Desmoid,Soft tissue,Desmoid tumor,Desmoid
+APC,Duodenum Neoplasm,Duodenal Polyps,Duodenum,Colorectal Polyps,Duodenal Polyp
+APC,Duodenum Cancer,,Duodenum,Duodenal cancer,Duodenum Cancer
+APC,Skin (Benign),Epidermoid Cysts,Skin,Osteoma,Epidermoid Cysts
+APC,Facial Palsy,,Nerve,Facial Palsy,Facial Palsy
+APC,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+APC,Gastric Neoplasm,Gastric Polyps,Gastric,Colorectal Polyps,Gastric Polyp
+APC,Hepatobiliary Cancer,Hepatoblastoma,Liver,Hepatoblastoma,Liver Cancer
+APC,Pancreatic Cancer,,Pancreas,Pancreatic cancer,Pancreatic Cancer
+APC,Skin (Benign),Pilomatrixoma,Skin,Pilomatrixoma,Skin (Benign)
+APC,Small Intestine Cancer,,Small Bowel,Small Instestine,Small Intestine Cancer
+PTCH1,Thyroid Cancer,Papillary Thyroid Cancer,Thyroid,Thyroid cancer,Thyroid Cancer
+ATM,Brain Tumor,Glioblastoma Multiforme,Brain,Brain Tumor,Brain Tumor
+ATM,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+ATM,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+ATM,Endometrial Cancer,,Uterus,Uterine Carcinoma,Endometrial Cancer
+ATM,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+ATM,Leukemia,T cell prolymphocytic leukemia,Blood,Leukemia,Leukemia
+ATM,Lung Cancer,NSCLC,Lung,Lung cancer,Lung Cancer
+ATM,Lymphoma,Mantle Cell,Nodes,Lymphoma,Lymphoma
+ATM,Melanoma,,Skin,Melanoma,Melanoma
+ATM,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+ATM,Pancreatic Cancer,,Pancreas,Pancreatic cancer,Pancreatic Cancer
+ATM,Prostate Cancer,,Prostate,Prostate cancer,Prostate Cancer
+PTCH1,Bone (Benign),Bifid Rib,Bone,Keratocystic odontogenic tumor,Skeletal Anomalys
+NF1,Dysmorphic Feature,"Abnormal Facies, Webbed neck , Midface hypoplasia 
+- Prominent nasolabial folds
+- Low-set ears
+- Posteriorly rotated ears",Face,Leukemia,Abnormal Facies
+PTEN,Dysmorphic Feature,"Abnormal Facies, Birdlike' facies, Short nose 
+- Depressed nasal bridge 
+- Hypoplastic mandible (uncommon)
+- Hypoplastic maxilla (uncommon)
+- Broad forehead 
+- Square outline
+- Frontal bossing 
+- 'Dished out' midface
+- Long philtrum",Face,Cerebrovascular malformations,Abnormal Facies
+PTEN,Ear (Benign),Hearing Loss,Head and neck,Cerebrovascular malformations,Hearing Loss
+PTEN,Eye (Benign),"Cataract
+- Angioid streaks
+- Myopia",Eye,Cerebrovascular malformations,Eye (Benign)
+PTEN,Oropharynx (Benign),"Microstomia 
+- High-arched palate
+- Scrotal tongue 
+- Oral papillomas",Oropharynx,Cerebrovascular malformations,Oral (Benign)
+PTEN,Liver (Benign),Hepatomegaly,Liver,Cerebrovascular malformations,Hepatomegaly
+PTEN,Spleen (Benign),Splenomegaly,Spleen,Cerebrovascular malformations,Splenomegaly
+PTEN,Bladder Cancer,,Urinary Bladder,Thyroid cancer,Bladder Cancer
+PTEN,Cervical Cancer,,Cervix,Uterine fibroids,Cervical
+PTEN,Genitourinary (Benign),"Hydrocele
+- Varicocele",Genitals,Pigmentation of glans penis,Genitourinary
+PTEN,Brain Tumor,Meningioma,Brain,Brain Tumor,Brain Tumor
+STK11,Nose (Benign),Nasal Polyps,Head and neck,Cerebrovascular malformations,Nose (Benign)
+STK11,Lung (Benign),Bronchial Polyps,Lung,Cerebrovascular malformations,Respiratory (Benign)
+STK11,Ovarian (Benign),Ovarian Cyst,Ovary,Ovarian cancer,Ovarian (Benign)
+STK11,Bladder (Benign),Bladder Polyps,Urinary Bladder,Cerebrovascular malformations,Bladder (Benign)
+TP53,Dysmorphic Feature,Short Stature,Bone,Short stature,Short Stature
+FOXE1,Thyroid Cancer,Non-Medullary  thyroid carcinoma,Thyroid,Thyroid cancer,Thyroid Cancer
+PRKAR1A,Thyroid Cancer,,Thyroid,Thyroid cancer,Thyroid Cancer
+PTCSC2,Thyroid Cancer,Papillary Thyroid Cancer,Thyroid,Thyroid cancer,Thyroid Cancer
+PTCSC3,Thyroid Cancer,Papillary Thyroid Cancer,Thyroid,Thyroid cancer,Thyroid Cancer
+SRGAP1,Thyroid Cancer,,Thyroid,Thyroid cancer,Thyroid Cancer
+NKX2-1,Thyroid Cancer,Non-Medullary  thyroid carcinoma,Thyroid,Thyroid cancer,Thyroid Cancer
+SEC23B,Thyroid Cancer,,Thyroid,,Thyroid Cancer
+PRKAR1A,Dysmorphic Feature,Short Stature,Bone,Thyroid cancer,Short Stature
+PRKAR1A,Ear (Benign),Hearing Loss,Head and neck,Thyroid cancer,Hearing Loss
+PRKAR1A,Eye (Benign),"Epicanthal folds
+- Hypertelorism 
+- Optic atrophy
+- Strabismus
+- Blue eyes (Japanese patients)
+- Conjunctival and scleral pigmentation",Eye,Thyroid cancer,Eye defects
+PRKAR1A,Eye Neoplasm,Eyelid myxoma,Eye,Thyroid cancer,Eyelid myxoma
+PRKAR1A,Dysmorphic Feature,"Abnormal Facies, Hypoplastic maxilla 
+- Prognathism Low nasal bridge 
+- Broad, upturned nose
+- Dimpled nasal tip",Face,Thyroid cancer,Abnormal Facies
+PRKAR1A,Teeth (Benign),"Malocclusion
+- Delayed tooth eruption
+- Hypodontia",Head and neck,Thyroid cancer,Hypodontia
+PRKAR1A,Bone (Benign),"Spinal canal stenosis
+- Scoliosis
+- Narrow interpediculate distances
+- Small vertebrae",Bone,Thyroid cancer,Spinal canal stenosis
+PRKAR1A,Bone (Benign),"Short, broad hands
+- Short metacarpals
+- Short phalanges
+- Cone-shaped epiphyses",Hand,Thyroid cancer,Hand (Benign)
+PRKAR1A,Bone (Benign),"Large halluces
+- Short metatarsals",Bone,Thyroid cancer,Foot (Benign)
+PRKAR1A,Skin (Benign),"Nevi
+- Ephelides
+Centrofacial/mucosal -lentigines
+- Blue nevi
+- Thin skin
+- Striae
+- Easy bruising",Skin,Thyroid cancer,Skin (Benign)
+PRKAR1A,Developmental,Intellectual Disability,CNS,Thyroid cancer,Mental retardation
+PRKAR1A,Brain Tumor,Pituitary Adenoma,Pituitary,Thyroid cancer,Pituitary Adenoma
+PRKAR1A,Thyroid (Benign),Thyroid follicular hyperplasia,Thyroid,Thyroid cancer,Thyroid Neoplasm
+PRKAR1A,CNS Tumor,"Schwannoma, Psammomatous melanotic schwannomas",CNS,Osteochondromyxoma,Schwannoma
+PRKAR1A,Pheochromocytoma/Paraganglioma,Pheochromocytoma,Adrenal,Adrenocortical carcinoma,Neuroendocrine
+PRKAR1A,Hepatobiliary Cancer,Hepatocellular Cancer,Liver,Adrenocortical carcinoma,Hepatocellular carcinoma
+FOXE1,Thyroid (Benign),Goiter,Thyroid,Thyroid cancer,Goiter
+BAP1,Melanoma,,Skin,Melanoma,Melanoma
+BAP1,Melanoma,Uveal Melanoma,Eye,Uveal melanoma,Melanoma
+BAP1,Mesothelioma,Peritoneal,Mesothelium,Mesothelioma,Mesothelioma
+BAP1,Skin (Benign),Spitz Nevus (Atypical),Skin,Atypical spitz tumor,Skin (Benign)
+BAP1,Skin Cancer (Non-Melanoma),Basal Cell Carcinoma,Skin,Basal cell carcinoma,Skin Cancer (Non-Melanoma)
+BAP1,Thyroid Cancer,,Thyroid,Thyroid cancer,Thyroid Cancer
+BARD1,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+SEC23B,Skin Cancer (Non-Melanoma),,Skin,,Squamous Cell Carcinoma
+SEC23B,Thyroid (Benign),Goiter,Thyroid,,Goiter
+SEC23B,Thyroid (Benign),Hashimoto thyroiditis,Thyroid,,Hashimoto thyroiditis
+SEC23B,GI Neoplasm,Hamartomatous Polyps,GI,GI hamartoma,GI Hamartoma
+SEC23B,CNS (Benign),Epileptic encephalopathy,CNS,Epilepsy,Epilepsy
+PRKAR1A,Skin (Benign),Lentigines,Skin,Thyroid cancer,Skin (Benign)
+PRKAR1A,Skin (Benign),Ephelides,Skin,Thyroid cancer,Skin (Benign)
+PALB2,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+BARD1,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+BARD1,Lung Cancer,,Lung,Lung cancer,Lung Cancer
+BARD1,Peripheral Nervous System Cancer,Neuroblastoma,PNS,Neuroblastoma,Neuroblastoma
+BARD1,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+BARD1,Psychiatric,Schizophrenia,CNS,Schizophrenia,Schizophrenia
+BARD1,Cardiovascular (Benign),Tetralogy Of Fallot,Heart,Tetralogy of Fallot,Tetralogy Of Fallot
+BLM,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+BLM,Prostate Cancer,,Prostate,,Prostate Cancer
+BMPR1A,Cardiovascular (Benign),Atrioventricular Septum Defect,Heart,Atrioventricular Septum Defect,Atrioventricular Septum Defect
+BMPR1A,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+BMPR1A,Duodenum Cancer,,Duodenum,Duodenal cancer,Duodenum Cancer
+BMPR1A,Dysmorphic Feature,Facial Dysmorphism,Face,Facial Dysmorphism,Facial Dysmorphism
+BMPR1A,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+BMPR1A,Colorectal Neoplasia,Juvenile Polyps,Colorectal,Juvenile polyps,Juvenile Polyps
+BMPR1A,Pancreatic Cancer,,Pancreas,Pancreatic cancer,Pancreatic Cancer
+BMPR1A,Small Intestine Cancer,,Small Bowel,Small Instestine,Small Intestine Cancer
+BMPR1A,Cardiovascular (Benign),Tetralogy Of Fallot,Heart,Tetralogy of Fallot,Tetralogy Of Fallot
+BRCA1,Brain Tumor,Medulloblastoma,Brain,Medulloblastoma,Brain Tumor
+BRCA1,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+BRCA1,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+BRCA1,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+BRCA1,Skin (Benign),,Skin,Melanoma,Keratoderma
+BRCA1,Kidney Cancer,,Kidney,Renal Cell Carcinoma,Kidney Cancer
+BRCA1,Melanoma,,Skin,Melanoma,Melanoma
+BRCA1,Peripheral Nervous System Cancer,Neuroblastoma,PNS,Neuroblastoma,Neuroblastoma
+BRCA1,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+BRCA1,Pancreatic Cancer,,Pancreas,Pancreatic cancer,Pancreatic Cancer
+BRCA1,Prostate Cancer,,Prostate,Prostate cancer,Prostate Cancer
+BRCA1,Thyroid Cancer,,Thyroid,Thyroid cancer,Thyroid Cancer
+BRCA2,Psychiatric,Autism,CNS,Autism,Autism
+BRCA2,Bladder Cancer,,Urinary Bladder,Bladder cancer,Bladder Cancer
+BRCA2,Brain Tumor,Medulloblastoma,Brain,Brain Tumor,Brain Tumor
+BRCA2,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+BRCA2,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+BRCA2,Esophageal Cancer,,Esophagus,Esophageal cancer,Esophageal Cancer
+BRCA2,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+BRCA2,Hepatobiliary Cancer,Hepatocellular Cancer,Liver,Liver,Hepatocellular Cancer
+BRCA2,Melanoma,Uveal Melanoma,Eye,Ocular Melanoma,Melanoma
+BRCA2,Melanoma,,Skin,Melanoma,Melanoma
+BRCA2,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+BRCA2,Pancreatic Cancer,,Pancreas,Pancreatic cancer,Pancreatic Cancer
+BRCA2,Prostate Cancer,,Prostate,Prostate cancer,Prostate Cancer
+BRCA2,Sarcoma,Ewing Sarcoma,Bone,Ewing Sarcoma,Sarcoma (Bone)
+BRCA2,Wilms Tumor,Nephroblastoma,Kidney,Wilms Tumor,Wilms Tumor
+BRIP1,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+BRIP1,Cervical Cancer,,Cervix,Cervical cancer,Cervical Cancer
+BRIP1,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+BRIP1,Leukemia,,Blood,Leukemia,Leukemia
+BRIP1,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+BRIP1,Prostate Cancer,,Prostate,Prostate cancer,Prostate Cancer
+CASR,CNS (Benign),Epilepsy,CNS,Epilepsy,Epilepsy
+CASR,Endocrine,Neonatal Severe Hyperparathyroid,Parathyroid,Hyperparathyroid,Hyperparathyroid
+CASR,Endocrine,Autosomal Dominant Hypocalcemia Type 1,Endocrine,Hypocalcemia,Hypocalcemia
+CASR,Endocrine,Hypocalciuric Hypercalcemia,Endocrine,Hypocalciuric hypercalcemia,Hypocalciuric Hypercalcemia
+CASR,Endocrine,Familial Isolated Hyperparathyroid,Parathyroid,Hypoparathyroidism,Hypoparathyroid
+CASR,Kidney (Benign),Kidney Stone,Kidney,Kidney stones,Kidney (Benign)
+CASR,Pancreas (Benign),Pancreatitis,Pancreas,Hyperparathyroid,Pancreatitis
+CDC73,Parathyroid (Benign),Hyperparathyroid,Parathyroid,Jaw tumor,Hyperparathyroid
+CDC73,Bone Neoplasm,Jaw Tumor,Bone,Jaw tumor,Jaw Lesions
+CDC73,Parathyroid Carcinoma,,Parathyroid,Parathyroid tumor,Parathyroid Carcinoma
+CDC73,Parathyroid Neoplasm,Parathyroid Adenoma,Parathyroid,Parathyroid adenoma,Parathyroid Neoplasm
+CDH1,Bladder Cancer,,Urinary Bladder,Bladder cancer,Bladder Cancer
+CDH1,Breast Cancer,Invasive Lobular Breast Cancer,Breast,Breast cancer,Breast Cancer
+CDH1,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+CDH1,Endometrial Cancer,,Uterus,Endometrial cancer,Endometrial Cancer
+CDH1,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+CDH1,Nasopharyngeal Cancer,,Head and neck,Nasopharyngeal Cancer,Nasopharyngeal Cancer
+CDH1,Oropharynx (Benign),cleft palate,Oropharynx,Orofacial clefting,Orofacial Cleft
+CDH1,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+CDH1,Prostate Cancer,,Prostate,Prostate cancer,Prostate Cancer
+SEC23B,Dysmorphic Feature,Macrocephaly,Head and neck,,Macrocephaly
+SEC23B,Oropharynx (Benign),Oral Mucosal Papillomatosis,Oropharynx,,Oral (Benign)
+SEC23B,Breast (Benign),Fibroadenoma,Breast,,Breast (Benign)
+SEC23B,Blood Vessel (Benign),Hemangioma,Blood Vessel,,Hemangioma
+SEC23B,Breast (Benign),Atypical ductal hyperplasia,Breast,,Breast (Benign)
+SEC23B,Gastrointestinal (Benign),Gastrointestinal polyps,GI,,Gastrointestinal polyps
+SEC23B,Skin (Benign),Trichilemmoma,Skin,,Hair (Benign)
+SEC23B,Uterus (Benign),Uterine Fibroids,Uterus,,Uterine Corpus (Benign)
+CDH1,Thyroid Cancer,,Thyroid,Thyroid cancer,Thyroid Cancer
+CDK4,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+CDK4,Head And Neck Cancer,Squamous Cell Carcinoma,Skin,Squamous cell carcinoma of the Head and Neck,Head And Neck Cancer
+CDK4,Lung Cancer,,Lung,Lung cancer,Lung Cancer
+CDK4,Melanoma,,Skin,Melanoma,Melanoma
+CDK4,Plasma Cell Cancer,Multiple Myeloma,Blood,Lung cancer,Multiple Myeloma
+CDK4,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+CDK4,Sarcoma,Liposarcoma,Skin,Liposarcoma,Sarcoma
+CDK4,Skin (Benign),Atypical Nevi,Skin,Atypical nevi,Skin (Benign)
+CDKN1B,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+CDKN1B,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+CDKN1B,Parathyroid (Benign),Hyperparathyroid,Parathyroid,Hyperparathyroid,Hyperparathyroid
+CDKN1B,Neuroendocrine,Pancreatic Neuroendocrine Tumor,Pancreas,Pancreatic neuroendocrine tumor,Neuroendocrine
+CDKN1B,Parathyroid Neoplasm,Parathyroid Adenoma,Parathyroid,Parathyroid adenoma,Parathyroid Neoplasm
+CDKN1B,Brain Tumor,Pituitary Adenoma,Pituitary,Pitutary adenoma,Pituitary Neoplasm
+CDKN1C,Adrenal Cortical (Benign),Adrenal Hypoplasia,Adrenal,Adrenal hypoplasia,Adrenal Hypoplasia
+CDKN1C,Genitourinary (Benign),"Cryptorchidism, Hypospadias",Genitals,Genital anomalies,Genital Anomalies
+CDKN1C,Developmental,Intrauterine Growth Restriction,Developmental,Intrauterine growth restriction,Intrauterine Growth Restriction
+CDKN1C,Bone (Benign),Metaphyseal Dysplasia,Bone,Metaphyseal dysplasia,Metaphyseal Dysplasia
+AXIN2,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+AXIN2,Colorectal Neoplasia,Adenomatous Polyps,Colorectal,Adenomatous Polyp,Colorectal Polyp
+AXIN2,Teeth (Benign),Oligodontia,Head and neck,Oligodontia,Oligodontia
+BAP1,Brain Tumor,Meningioma,Brain,Meningioma,Brain Tumor
+BAP1,Hepatobiliary Cancer,Cholangiocarcinoma,Bile Duct,Cholangiocarcinoma,Hepatobiliary Cancer
+BAP1,Kidney Cancer,Clear Cell Carcinoma,Kidney,Renal cell carcinoma,Kidney Cancer
+CDKN1C,Peripheral Nervous System Cancer,Neuroblastoma,PNS,Neuroblastoma,Neuroblastoma
+CDKN2A,Esophageal Cancer,,Esophagus,Esophageal cancer,Esophageal Cancer
+CDKN2A,Kidney Cancer,,Kidney,Renal Carcinoma,Kidney Cancer
+CDKN2A,Leukemia,ALL,Blood,Leukemia,Leukemia
+CDKN2A,Lung Cancer,,Lung,Lung cancer,Lung Cancer
+CDKN2A,Orolaryngeal Carcinoma,,Head and neck,Orolaryngeal Carcinoma,Orolaryngeal Carcinoma
+CDKN2A,Skin Cancer (Non-Melanoma),Squamous Cell Carcinoma,Skin,Squamous cell carcinoma,Squamous Cell Carcinoma
+CDKN2A,Melanoma,,Skin,Melanoma,Melanoma
+CDKN2A,Pancreatic Cancer,,Pancreas,Pancreatic cancer,Pancreatic Cancer
+CDKN2A,Sarcoma,,Soft Tissue,Sarcoma,Sarcoma
+CDKN2A,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+CDKN2A,Head And Neck Cancer,Squamous Cell Carcinoma,Skin,Head and neck squamous cell carcinomas,Head And Neck Cancer
+CDKN2A,Melanoma,,Skin,Melanoma,Melanoma
+CDKN2A,Pancreatic Cancer,,Pancreas,Pancreatic cancer,Pancreatic Cancer
+CDKN2A,Sarcoma,,Soft Tissue,Sarcoma,Sarcoma
+CDKN2A,Skin (Benign),Atypical Nevi,Skin,Atypical nevi,Skin (Benign)
+CEBPA,Leukemia,AML,Blood,Leukemia,Leukemia
+CHEK1,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+CHEK1,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+CHEK2,Adrenal Cortical Carcinoma,,Adrenal,,Adrenocortical carcinoma
+CHEK2,Breast Cancer,,Breast,,Breast Cancer
+CHEK2,Endometrial Cancer,,Uterus,,Endometrial Cancer
+CHEK2,Gastric Cancer,,Gastric,,Gastric Cancer
+CHEK2,Leukemia,CLL,Blood,,Leukemia
+CHEK2,Lung Cancer,,Lung,,Lung Cancer
+CHEK2,Peripheral Nervous System Cancer,Neuroblastoma,PNS,,Neuroblastoma
+CHEK2,Blood (Benign),Polycythaemia Vera,Blood,,Polycythaemia Vera
+CHEK2,Sarcoma,Osteosarcoma,Bone,,Sarcoma (Bone)
+CHEK2,Blood (Benign),Thrombocythaemia,Blood,,Thrombocythaemia
+CHEK2,Wilms Tumor,Nephroblastoma,Kidney,,Wilms Tumor
+CHEK2,Breast Cancer,,Breast,,Breast Cancer
+CHEK2,Colorectal Cancer,,Colorectal,,Colorectal Cancer
+CHEK2,Kidney Cancer,,Kidney,,Kidney Cancer
+CHEK2,Ovarian Cancer,,Ovary,,Ovarian Cancer
+CHEK2,Prostate Cancer,,Prostate,,Prostate Cancer
+CHEK2,Thyroid Cancer,Papillary Thyroid Cancer,Thyroid,,Thyroid Cancer
+CTNNA1,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+CTNNA1,Eye (Benign),Macular Dystrophy,Eye,Gastric cancer,Macular Dystrophy
+DICER1,Brain Tumor,Pineoblastoma,Brain,Pineoblastoma,Brain Tumor
+DICER1,Breast Cancer,,Breast,Wilm's tumor,Breast Cancer
+DICER1,Colorectal Cancer,,Colorectal,Wilm's tumor,Colorectal Cancer
+DICER1,GI Neoplasm,Hamartomatous Polyps,GI,GI hamartoma,GI Hamartoma
+DICER1,Developmental,Global Development Delay,Developmental,Global Development delay,Global Development Delay
+DICER1,Gastrointestinal (Benign),Intussusception,Small Bowel,Intussusception,Intussusception
+DICER1,Wilms Tumor,Nephroblastoma,Kidney,Cystic nephroma,Nephroblastoma
+DICER1,Liver (Benign),Mesenchymal Hamartoma Of The Liver,Liver,Mesenchymal hamartoma of the liver,Liver(Benign)
+DICER1,Lung Cancer,Pleuropulmonary blastoma,Lung,Pleuropulmonary blastoma,Lung Cancer
+DICER1,Gastrointestinal (Benign),Meckel’s Diverticulum,Small Bowel,Meckel’s diverticulum,Meckel’s Diverticulum
+DICER1,Peripheral Nervous System Cancer,Neuroblastoma,PNS,Neuroblastoma,Neuroblastoma
+DICER1,Ovarian Neoplasm,Sex Cord Tumor,Ovary,Ovarian cancer,Ovarian Cancer
+DICER1,Brain Tumor,Pituitary Blastoma,Pituitary,Pituitary blastoma,Pituitary Neoplasm
+DICER1,Sarcoma,Embryonal Rhabdomyosarcoma,Soft Tissue,Embryonal rhabdomyosarcoma,Sarcoma
+DICER1,Skin (Benign),Dysplastic Nevus,Skin,Dysplastic nevus,Skin (Benign)
+DICER1,Thyroid (Benign),Multinodular Goiter,Thyroid,Multinodular goiter,Thyroid (Benign)
+DICER1,Thyroid Cancer,Thyroid cancer differentiated,Thyroid,Thyroid cancer,Thyroid Cancer
+EPCAM,Adrenal Cortical Carcinoma,,Adrenal,Adrenocortical carcinoma,Adrenal Cortical Carcinoma
+EPCAM,Bladder Cancer,,Urinary Bladder,Urinary Bladder,Bladder Cancer
+EPCAM,Brain Tumor,Glioblastoma Multiforme,Brain,Brain Tumor,Brain Tumor
+EPCAM,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+EPCAM,Cervical Cancer,,Cervix,Cervical cancer,Cervical Cancer
+EPCAM,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+EPCAM,Endometrial Cancer,,Uterus,Endometrial cancer,Endometrial Cancer
+EPCAM,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+EPCAM,Hepatobiliary Cancer,,Liver,Hepatobiliary,Hepatobiliary Cancer
+EPCAM,Gastrointestinal (Benign),Inflammatory Bowel Disease,GI,Inflammatory Bowel Disease,Inflammatory Bowel Disease
+EPCAM,Kidney Cancer,Renal Pelvis,Kidney,Kidney,Kidney Cancer
+EPCAM,Leukemia,ALL,Blood,Leukemia,Leukemia
+EPCAM,Lymphoma,,Nodes,Lymphoma,Lymphoma
+EPCAM,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+EPCAM,Pancreatic Cancer,,Pancreas,Pancreatic cancer,Pancreatic Cancer
+EPCAM,Prostate Cancer,,Prostate,Prostate cancer,Prostate Cancer
+EPCAM,Sebaceous Adenoma,,Skin,Sebaceous adenoma,Sebaceous Adenoma
+EPCAM,Sebaceous Cancer,,Skin,Sebaceous carcinoma,Sebaceous Cancer
+EPCAM,Skin (Benign),Keratoacanthoma,Skin,Keratoacanthoma,Skin (Benign)
+DIS3L2,Wilms Tumor,Nephroblastoma,Kidney,Kidney,Wilms tumor
+DOT1L,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+DOT1L,Leukemia,,Blood,Gastric cancer,Leukemia
+DOT1L,Bone (Benign),Osteoarthritis,Bone,Gastric cancer,Osteoarthritis
+EGFR,Brain Tumor,Glioblastoma Multiforme,Brain,Brain Tumor,Brain Tumor
+MUTYH-Biallelic,Bladder Cancer,,Urinary Bladder,Urinary Bladder,Bladder Cancer
+MUTYH-Biallelic,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+MUTYH-Biallelic,CHRPE,Congenital retinal pigment epithelial hypertrophy,Eye,Congenital hypertrophy of the retinal pigment epithelium (CHRPE),CHRPE
+MUTYH-Biallelic,Colorectal Cancer,,Colorectal,Colorectal Cancer,Colorectal Cancer
+MUTYH-Biallelic,Colorectal Neoplasia,Colorectal Polyps,Colorectal,Colorectal Polyps,Colorectal Polyp
+MUTYH-Biallelic,Duodenum Cancer,,Duodenum,Duodenal cancer,Duodenal Cancer
+EGFR,Gastrointestinal (Benign),Inflammatory Bowel Disease,GI,Inflammatory skin and bowel disease,Inflammatory Skin And Bowel Disease
+EGFR,Lung Cancer,NSCLC,Lung,Lung,Lung Cancer
+EPCAM,Small Intestine Cancer,,Small Bowel,Small Instestine,Small Intestine Cancer
+EPCAM,Upper Urinary Tract Cancer,,Upper Urinary Tract,Ureter,Upper Urinary Tract Cancer
+EPCAM,Ureter Cancer,,Ureter,Ureter,Ureter Cancer
+ETV6,Leukemia,ALL,Blood,Leukemia,Leukemia
+ETV6,Leukemia,AML,Blood,Leukemia,Leukemia
+ETV6,Sarcoma,,Bone,Fibrosarcoma,Sarcoma
+ABRAXAS1,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+ABRAXAS1,Prostate Cancer,,Prostate,Prostate cancer,Prostate Cancer
+FANCC,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+FANCC,Leukemia,AML,Blood,Leukemia,Leukemia
+FANCC,Blood (Benign),Myelodysplasia,Blood,Leukemia,Leukemia
+FANCC,Pancreatic Cancer,,Pancreas,Pancreatic cancer,Pancreatic Cancer
+FANCC,Skin Cancer (Non-Melanoma),Squamous Cell Carcinoma,Skin,Squamous cell carcinoma,Squamous Cell Carcinoma
+FANCC,Gastrointestinal (Benign),Tracheoesophageal Fistula ,Mediastinum,Tracheoesophageal fistula,Tracheoesophageal Fistula 
+FBXO24,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+FH,Adrenal Cortical (Benign),Primary Macronodular Adrenal Hyperplasia,Adrenal,Primary macronodular adrenal hyperplasia,Adrenal Hyperplasia
+FH,Breast Cancer,,Breast,Kidney,Breast Cancer
+FH,Fumarase Deficiency,,Metabolic,Fumarase deficiency,Fumarase Deficiency
+FH,Kidney Cancer,"Renal Cell Carcinoma, Aggressive",Kidney,Kidney,Kidney Cancer
+FH,Pheochromocytoma/Paraganglioma,Pheochromocytoma,Adrenal,Pheochromocytoma,Neuroendocrine
+FH,Pheochromocytoma/Paraganglioma,Paraganglioma,Nerve,Paraganglioma,Neuroendocrine
+FH,Ovarian Neoplasm,Ovarian Mucinous Cystadenoma,Ovary,Kidney,Ovarian Cancer
+FH,Sarcoma,Cutaneous Leiomyosarcoma,Skin,Leiomyosarcoma,Sarcoma
+FH,Uterus Cancer,Leiomyosarcoma,Uterus,Leiomyosarcoma,Sarcoma
+FH,Testicular Cancer,Leydig Cell Tumour of the Testis,Testes,Kidney,Testicular Cancer
+FLCN,Kidney Cancer,"Renal Cell Carcinoma, hybrid oncocytic tumor, chromophobe renal cell carcinoma, clear cell renal carcinoma, renal cell oncocytoma, papillary renal carcinoma",Kidney,Kidney,Kidney Cancer
+FLCN,Lung (Benign),Lung Cyst,Lung,Lung cyst,Lung (Benign)
+FLCN,Lung (Benign),Primary Spontaneous Pneumothorax,Lung,Primary spontaneous pneumothorax,Pneumothorax
+FLCN,Skin (Benign),Fibrofolliculoma,Skin,Fibrofolliculomas,Skin (Benign)
+FLCN,Skin Cancer (Non-Melanoma),Basal Cell Carcinoma,Skin,Skin cancer,Skin Cancer (Non-Melanoma)
+GALNT12,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+GATA2,Leukemia,AML,Blood,Leukemia,Leukemia
+GATA2,Leukemia,CMML,Blood,Leukemia,Leukemia
+GATA2,Lymphedema,,Nodes,Lymphedema,Lymphedema
+GATA2,Blood (Benign),Myelodysplastic syndrome,Blood,Myelodysplasia,Myelodysplasia
+GEN1,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+GEN1,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+GEN1,Prostate Cancer,,Prostate,Prostate cancer,Prostate Cancer
+GPC3,Hepatobiliary Cancer,Hepatocellular Cancer,Liver,Liver,Hepatocellular Cancer
+PRKAR1A,Skin Neoplasm,Cutaneous Myxoma,Skin,Intracardiac Myxoma,Cutaneous Myxoma
+PRKAR1A,Pancreatic Neoplasm,Intraductal pancreatic mucinous neoplasia (IPMN),Pancreas,Thyroid cancer,Pancreatic Cancer
+PRKAR1A,Testicular Neoplasm,Large Cell Calcifying Sertoli Cell Tumor,Testes,Thyroid cancer,Testicular Neoplasm
+PRKAR1A,Breast (Benign),Myxoma,Breast,Thyroid cancer,Breast myxoma
+PRKAR1A,Brain Tumor,Pituitary Adenoma,Pituitary,Thyroid cancer,Pitutary Adenoma
+STK11,Ovarian Neoplasm,Non epithelial ovarian tumor,Ovary,Ovarian cancer,Ovarian Neoplam
+DICER1,Brain Tumor,Medulloblastoma,Brain,Pineoblastoma,Brain Tumor
+NKX2-1,Thyroid (Benign),Multinodular Goiter,Thyroid,Multinodular goiter,Thyroid (Benign)
+NKX2-1,CNS (Benign),Chorea,CNS,Leukemia,Chorea
+NKX2-1,Cardiovascular (Benign),Congenital septal defects,Heart,Ventricular Septal Defect,Congenital septal defects
+NKX2-1,Developmental,Intellectual Disability,CNS,Autism,Learning Dysability
+NKX2-1,Developmental,"Global developmental delay
+- Difficulty walking in childhood
+- Choreoathetosis
+- Hypotonia
+- Ataxia
+- Dysarthria
+- Dystonia
+- Symptoms of hypothalamic disturbances",Developmental,Holoprosencephaly,Central Nervous System (Benign)
+NKX2-1,Thyroid (Benign),Hypothyroid,Thyroid,,Hypothyroid
+NKX2-1,Lung (Benign),Neonatal respiratory distress,Lung,Multinodular goiter,respiratory distress
+CHEK2,Melanoma,,Skin,,Melanoma
+HABP2,Blood (Benign),Venous thrombosis,Blood,,Venous thrombosis
+HABP2,Thyroid Cancer,Non-Medullary  thyroid carcinoma,Thyroid,Thyroid cancer,Thyroid Cancer
+HABP2,Blood Vessel (Benign),Carotid Stenosis,Blood Vessel,,Carotid Stenosis
+HABP2,Hair (Benign),Alopecia Mucinosa,Hair,Alopecia areata,Alopecia Mucinosa
+AIP,Brain Tumor,Familial Isolated Pituitary Adenoma-somatotropinoma,Pituitary,,Brain Tumor
+ATR,Prostate Cancer,,Prostate,,
+CFTR,Pancreas (Benign),Pancreatitis,Pancreas,,
+CPA1,Pancreas (Benign),Pancreatitis,Pancreas,,
+CTRC,Pancreas (Benign),Pancreatitis,Pancreas,,
+MLH3,Pancreas (Benign),Pancreatitis,Pancreas,,
+SPINK1,Pancreas (Benign),Pancreatitis,Pancreas,,
+WT1,Genitourinary (Benign),"Streak ovaries, hypoplastic uterus",Genitals,Genitourinary anomalies,Genitourinary Anomalies
+PTEN,Genitourinary (Benign),"Vaginal cysts
+- Vulvar cysts
+- Ovarian cysts
+- Leiomyomas",Genitals,Pigmentation of glans penis,Genitourinary
+PTEN,Breast (Benign),Gynecomastia,Breast,Fibrocystic breast disease,Breast (Benign)
+PRKAR1A,Developmental,Global Development Delay,Bone,Thyroid cancer,Short Stature
+GPC3,Wilms Tumor,Nephroblastoma,Kidney,Kidney,Kidney Cancer
+GPC3,Peripheral Nervous System Cancer,Neuroblastoma,PNS,Neuroblastoma,Neuroblastoma
+GREM1,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+GREM1,Colorectal Neoplasia,Adenomatous Polyps,Colorectal,Colorectal Polyps,Colorectal Polyp
+GREM1,Colorectal Neoplasia,Juvenile Polyps,Colorectal,Colorectal Polyps,Colorectal Polyp
+GREM1,Bone (Benign),Sclerosteosis,Bone,Sclerosteosis,Sclerosteosis
+HOXB13,Bladder Cancer,,Urinary Bladder,Bladder cancer,Bladder Cancer
+HOXB13,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+HOXB13,Brain Tumor,Gioma,Brain,Spinal cord ependymoma,Brain Tumor
+HOXB13,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+HOXB13,Prostate Cancer,,Prostate,Prostate cancer,Prostate Cancer
+INSR,Endocrine,"Type A insulin resistance, Diabetes Mellitus",Pancreas,Gastric cancer,Diabetes Mellitus
+INSR,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+INSR,Ovarian (Benign),Polycystic Ovary Disease,Ovary,Gastric cancer,Polycystic Ovary
+KIT,GIST,,GI,Gastrointestinal Stromal Tumor,GIST
+KIT,Leukemia,AML,Blood,Leukemia,Leukemia
+KIT,Skin (Benign),Piebaldism,Hair,Piebaldism,Piebaldism
+KIT,Blood (Benign),Systemic Mastocytosis,Blood,Systemic mastocytosis,Systemic Mastocytosis
+KIT,Testicular Cancer,,Testes,Testicular cancer,Testicular Cancer
+MAP3K6,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+MAX,Pheochromocytoma/Paraganglioma,Paraganglioma,Nerve,Paraganglioma,Neuroendocrine
+MAX,Pheochromocytoma/Paraganglioma,Pheochromocytoma,Adrenal,Pheochromocytoma,Neuroendocrine
+MCPH1,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+MCPH1,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+MET,Hepatobiliary Cancer,Hepatocellular Cancer,Liver,Hepatocellular carcinoma,Hepatocellular Cancer
+MET,Kidney Cancer,Papillary renal Cell Carcinoma,Kidney,Kidney,Kidney Cancer
+MET,Lung Cancer,,Lung,Lung,Lung Cancer
+MET,Pheochromocytoma/Paraganglioma,Pheochromocytoma,Adrenal,Pheochromocytoma,Neuroendocrine
+MET,Pheochromocytoma/Paraganglioma,Paraganglioma,Nerve,Paraganglioma,Neuroendocrine
+MET,Bone (Benign),Osteofibrous Dysplasia,Bone,Osteofibrous dysplasia,Osteofibrous Dysplasia
+MITF,Skin (Benign),Albinism,Skin,Albinism,Albinism
+MITF,Eye (Benign),Coloboma,Eye,Coloboma,Coloboma
+MITF,Ear (Benign),Hearing Loss,Head and neck,Deafness,Deafness
+MITF,Kidney Cancer,Renal Cell Carcinoma,Kidney,Kidney,Kidney Cancer
+MITF,Dysmorphic Feature,Macrocephaly,Head and neck,Macrocephaly,Macrocephaly
+MITF,Melanoma,,Skin,Melanoma,Melanoma
+MITF,Eye (Benign),Microphthalmia,Eye,Microphthalmia,Microphthalmia
+MITF,Bone (Benign),Osteopetrosis,Bone,Osteopetrosis,Osteopetrosis
+MLH1,Adrenal Cortical Carcinoma,,Adrenal,Adrenocortical carcinoma,Adrenal Cortical Carcinoma
+MLH1,Skin Cancer (Non-Melanoma),Basal Cell Carcinoma,Skin,Sebaceous carcinoma,Basal Cell Carcinoma
+MLH1,Bladder Cancer,,Urinary Bladder,Urinary Bladder,Bladder Cancer
+MLH1,Brain Tumor,Glioblastoma Multiforme,Brain,Brain Tumor,Brain Tumor
+MLH1,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+MLH1,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+MLH1,Endometrial Cancer,,Uterus,Endometrial cancer,Endometrial Cancer
+MLH1,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+MLH1,Hepatobiliary Cancer,,Liver,Hepatobiliary,Hepatobiliary Cancer
+MLH1,Lung Cancer,,Lung,Sebaceous carcinoma,Lung Cancer
+MLH1,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+MLH1,Pancreatic Cancer,,Pancreas,Pancreatic cancer,Pancreatic Cancer
+MLH1,Prostate Cancer,,Prostate,Prostate cancer,Prostate Cancer
+MLH1,Sebaceous Adenoma,,Skin,Sebaceous adenoma,Sebaceous Adenoma
+MLH1,Sebaceous Cancer,,Skin,Sebaceous carcinoma,Sebaceous Cancer
+MLH1,Skin (Benign),Keratoacanthoma,Skin,Keratoacanthoma,Skin (Benign)
+MLH1,Duodenum Cancer,,Duodenum,Small Intestine,Duodenal Cancer
+MLH1,Upper Urinary Tract Cancer,,Upper Urinary Tract,Upper Urinary Tract,Upper Urinary Tract Cancer
+MLH1,Ureter Cancer,,Ureter,Ureter,Ureter Cancer
+MLH1-Biallelic,Colorectal Neoplasia,,Colorectal,Upper Urinary Tract,Colorectal Polyps
+MLH1-Biallelic,Small Intestine Cancer,,Small Bowel,Upper Urinary Tract,Gastrointestinal Carcinoma
+MLH1-Biallelic,Lymphoma,,Nodes,Lymphoma,Lymphoma
+MLH1-Biallelic,Neurofibroma,,Nerve,Upper Urinary Tract,Neurofibromas
+MLH1-Biallelic,Sarcoma,Rhabdomyosarcoma,Soft Tissue,Upper Urinary Tract,Rhabdomyosarcoma
+MLH1-Biallelic,Skin Cancer (Non-Melanoma),,Skin,Upper Urinary Tract,Skin Tumor
+MRE11A,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+MRE11A,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+MRE11A,Prostate Cancer,,Prostate,Prostate cancer,Prostate Cancer
+MSH2,Adrenal Cortical Carcinoma,,Adrenal,Adrenocortical carcinoma,Adrenal Cortical Carcinoma
+MSH2,Skin Cancer (Non-Melanoma),Basal Cell Carcinoma,Skin,Sebaceous carcinoma,Basal Cell Carcinoma
+MSH2,Bladder Cancer,,Urinary Bladder,Urinary Bladder,Bladder Cancer
+MSH2,Brain Tumor,Glioblastoma Multiforme,Brain,Brain Tumor,Brain Tumor
+MSH2,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+MSH2,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+MSH2,Endometrial Cancer,,Uterus,Endometrial cancer,Endometrial Cancer
+MSH2,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+MSH2,Hepatobiliary Cancer,,Liver,Hepatobiliary,Hepatobiliary Cancer
+MSH2,Kidney Cancer,Renal Pelvis,Kidney,Kidney,Kidney Cancer
+MSH2,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+MSH2,Pancreatic Cancer,,Pancreas,Pancreatic cancer,Pancreatic Cancer
+MSH2,Prostate Cancer,,Prostate,Prostate cancer,Prostate Cancer
+MSH2,Sebaceous Adenoma,,Skin,Sebaceous adenoma,Sebaceous Adenoma
+MSH2,Sebaceous Cancer,,Skin,Sebaceous carcinoma,Sebaceous Cancer
+MSH2,Skin (Benign),Keratoacanthoma,Skin,Keratoacanthoma,Skin (Benign)
+MSH2,Duodenum Cancer,,Duodenum,Small Intestine,Duodenal Cancer
+MSH2,Thyroid Cancer,,Thyroid,Thyroid cancer,Thyroid Cancer
+MSH2,Upper Urinary Tract Cancer,,Upper Urinary Tract,Upper Urinary Tract,Upper Urinary Tract Cancer
+MSH2,Ureter Cancer,,Ureter,Ureter,Ureter Cancer
+MSH2-Biallelic,Brain Tumor,Glioblastoma Multiforme,Brain,Brain Tumor,Brain Tumor
+MSH2-Biallelic,Colorectal Neoplasia,,Colorectal,Upper Urinary Tract,Colorectal Polyps
+MSH2-Biallelic,Small Intestine Cancer,,Small Bowel,Upper Urinary Tract,Gastrointestinal Carcinoma
+MSH2-Biallelic,Leukemia,ALL,Blood,Leukemia,Leukemia
+MSH2-Biallelic,Lymphoma,,Nodes,Lymphoma,Lymphoma
+MSH2-Biallelic,Neurofibroma,,Nerve,Upper Urinary Tract,Neurofibromas
+MSH2-Biallelic,Sarcoma,Rhabdomyosarcoma,Soft Tissue,Upper Urinary Tract,Rhabdomyosarcoma
+MSH2-Biallelic,Skin Cancer (Non-Melanoma),,Skin,Upper Urinary Tract,Skin Tumor
+MSH3,Endometrial Cancer,,Uterus,Endometrial Cancer,Endometrial Cancer
+MSH3,Gastric Neoplasm,Gastric Leiomyoma,Gastric,Gastric leiomyoma,Gastric Neoplasm
+MSH6,Adrenal Cortical Carcinoma,,Adrenal,Adrenocortical carcinoma,Adrenal Cortical Carcinoma
+MSH6,Bladder Cancer,,Urinary Bladder,Urinary Bladder,Bladder Cancer
+MSH6,Brain Tumor,Glioblastoma Multiforme,Brain,Brain Tumor,Brain Tumor
+MSH6,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+MSH6,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+MSH6,Endometrial Cancer,,Uterus,Endometrial cancer,Endometrial Cancer
+MSH6,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+MSH6,Hepatobiliary Cancer,,Liver,Hepatobiliary,Hepatobiliary Cancer
+MSH6,Kidney Cancer,Renal Pelvis,Kidney,Kidney,Kidney Cancer
+MSH6,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+MSH6,Pancreatic Cancer,,Pancreas,Pancreatic cancer,Pancreatic Cancer
+MSH6,Prostate Cancer,,Prostate,Prostate cancer,Prostate Cancer
+MSH6,Sebaceous Adenoma,,Skin,Sebaceous adenoma,Sebaceous Adenoma
+MSH6,Sebaceous Cancer,,Skin,Sebaceous carcinoma,Sebaceous Cancer
+MSH6,Skin (Benign),Keratoacanthoma,Skin,Keratoacanthoma,Skin (Benign)
+MSH6,Small Intestine Cancer,,Small Bowel,Small Intestine,Small Intestine Cancer
+MSH6,Thyroid Cancer,,Thyroid,Thyroid cancer,Thyroid Cancer
+MSH6,Upper Urinary Tract Cancer,,Upper Urinary Tract,Upper Urinary Tract,Upper Urinary Tract Cancer
+MSH6,Ureter Cancer,,Ureter,Ureter,Ureter Cancer
+MSH6-Biallelic,Colorectal Neoplasia,,Colorectal,Upper Urinary Tract,Colorectal Polyps
+MSH6-Biallelic,Small Intestine Cancer,,Small Bowel,Upper Urinary Tract,Gastrointestinal Carcinoma
+MSH6-Biallelic,Lymphoma,,Nodes,Lymphoma,Lymphoma
+MSH6-Biallelic,Neurofibroma,,Nerve,Upper Urinary Tract,Neurofibromas
+MSH6-Biallelic,Sarcoma,Rhabdomyosarcoma,Soft Tissue,Upper Urinary Tract,Rhabdomyosarcoma
+MSH6-Biallelic,Skin Cancer (Non-Melanoma),,Skin,Upper Urinary Tract,Skin Tumor
+MSR1,Gastrointestinal (Benign),Barrett Esophagus,Esophagus,Gastric cancer,Barrett Esophagus
+MSR1,Breast Cancer,,Breast,Gastric cancer,Breast Cancer
+MSR1,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+MSR1,Liver (Benign),Non-Alcoholic Fatty Liver Disease,Liver,Gastric cancer,Nonalcoholic Fatty Liver Disease
+MSR1,Ovarian (Benign),Polycystic Ovary Disease,Ovary,Gastric cancer,Polycystic Ovary
+MSR1,Prostate Cancer,,Prostate,Gastric cancer,Prostate Cancer
+MUTYH-Biallelic,Duodenum Neoplasm,Duodenal Polyps,Duodenum,Duodenal cancer,Duodenum Polyp
+MUTYH-Biallelic,Endometrial Cancer,,Uterus,Thyroid cancer,Endometrial Cancer
+"MUTYH-Biallelic/Compound Heterozygous
+MUTYH-Biallelic/Compound Heterozygous",Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+MUTYH-Biallelic/G396D,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+MUTYH,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+MUTYH,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+MUTYH,Endometrial Cancer,,Uterus,Endometrial cancer,Endometrial Cancer
+MUTYH,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+MUTYH,Hepatobiliary Cancer,,Liver,Hepatobiliary,Hepatobiliary Cancer
+MUTYH,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+MYD88,Lymphoma,CNS,Nodes,Gastric cancer,Lymphoma
+MYD88,Plasma Cell Neoplasm,Macroglobulinemia,Blood,Gastric cancer,Macroglobulinemia
+NBN,Bladder Cancer,,Urinary Bladder,Bladder cancer,Bladder Cancer
+NBN,Brain Tumor,Medulloblastoma,Brain,Medulloblastoma,Brain Tumor
+NBN,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+NBN,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+NBN,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+NBN,Hepatobiliary Cancer,Hepatocellular Cancer,Liver,Hepatic Cancer,Hepatocellular Cancer
+NBN,Leukemia,ALL,Blood,Leukemia,Leukemia
+NBN,Lung Cancer,,Lung,Lung Cancer,Lung Cancer
+NBN,Melanoma,,Skin,Melanoma,Melanoma
+NBN,Nasopharyngeal Cancer,,Head and neck,Nasopharyngeal Cancer,Nasopharyngeal Cancer
+NBN,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+NBN,Prostate Cancer,,Prostate,Prostate cancer,Prostate Cancer
+NF1,Brain Tumor,Astrocytoma,Brain,Brain Tumor,Brain Tumor
+NF1,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+NF1,Skin (Benign),Cafe-Au-Lait Spots,Skin,Cafe-Au-Lait Spots,Cafe-Au-Lait Spots
+NF1,GIST,,Small Bowel,Gastrointestinal Stromal Tumor,GIST
+NF1,Eye (Benign),Lisch nodule (Iris Hamartoma),Eye,Optic pathway gliomas,Iris Hamartoma
+NF1,Developmental,Intellectual Disability,CNS,Autism,Learning Dysability
+SRGAP1,Endocrine Abnormalities,,Endocrine,Intracardiac Myxoma,Endocrine Abnormalities
+SRGAP1,Skin (Benign),Nevi,Skin,Cafe-Au-Lait Spots,Nevi
+MUTYH-Biallelic,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+MUTYH-Biallelic,Bone (Benign),Jaw Lesions,Bone,Jaw-bone cyst,Jaw Lesions
+MUTYH-Biallelic,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+MUTYH-Biallelic,Skin Cancer (Non-Melanoma),,Skin,Thyroid cancer,Skin
+MUTYH-Biallelic,Skin (Benign),Pilomatrixoma,Skin,Pilomatrixoma,Skin (Benign)
+MUTYH-Biallelic,Small Intestine Cancer,,Small Bowel,Small Intestine,Small Intestine Cancer
+MUTYH-Biallelic,Thyroid Cancer,,Thyroid,Thyroid cancer,Thyroid Cancer
+NF1,Lung Cancer,,Lung,Lung cancer,Lung Cancer
+NF1,Sarcoma,Malignant Peripheral Nerve Sheath Tumor,Soft Tissue,Malignant peripheral nerve sheath tumor,Malignant Peripheral Nerve Sheath Tumor
+NF1,Melanoma,,Skin,Melanoma,Melanoma
+NF1,Pheochromocytoma/Paraganglioma,Pheochromocytoma,Adrenal,Pheochromocytoma,Neuroendocrine
+NF1,Pheochromocytoma/Paraganglioma,Paraganglioma,Nerve,Pheochromocytoma,Neuroendocrine
+NF1,Neurofibroma,,Nerve,Neurofibroma,Neurofibromas
+NF1,Brain Tumor,Optic Glioma,Eye,Optic pathway gliomas,Optic pathway gliomas
+NF1,Ovarian Cancer,,Ovary,Breast cancer,Ovarian Cancer
+NF1,Cardiovascular (Benign),Pulmonary Stenosis,Heart,Ventricular Septal Defect,Pulmonary Stenosis
+NF1,Sarcoma,Rhabdomyosarcoma,Soft tissue,Sarcoma,Sarcoma
+NF1,Skin (Benign),Skin Freckling -Axillary and Inguinal,Skin,Cafe-Au-Lait Spots,Skin Freckling
+NF2,Brain Tumor,Glioblastoma Multiforme,Brain,Brain Tumor,Brain Tumor
+NF2,Brain Tumor,Meningioma,Brain,Meningioma,Brain Tumor
+NTHL1,Pancreatic Neoplasm,Periampullary Adenoma,Pancreas,Periampullary adenoma,Pancreatic Neoplasm
+PALB2,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+PALB2,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+PALB2,Endometrial Cancer,,Uterus,Uterine Carcinoma,Endometrial Cancer
+PALB2,Lipoma,,Lipid,Subcutaneous Lipomatosis,Lipoma
+PALB2,Melanoma,,Skin,Melanoma,Melanoma
+PALB2,Peripheral Nervous System Cancer,Neuroblastoma,PNS,Neuroblastoma,Neuroblastoma
+PALB2,Ovarian Cancer,,Ovary,Ovarian Cancer,Ovarian Cancer
+PALB2,Pancreatic Cancer,,Pancreas,Pancreatic Cancer,Pancreatic Cancer
+PALB2,Ovarian Cancer,,Ovary,Peritoneal Cancer,Primary Peritoneal Cancer
+PALB2,Prostate Cancer,,Prostate,Prostate cancer,Prostate Cancer
+PALB2,Gastrointestinal (Benign),Tracheoesophageal Fistula ,Mediastinum,Tracheoesophageal fistula ,Tracheoesophageal Fistula 
+PALB2,Wilms Tumor,Nephroblastoma,Kidney,Breast cancer,Wilms Tumor
+PARK2,Lung Cancer,,Lung,Lung,Lung Cancer
+PARK2,CNS (Benign),Parkinsons,CNS,"Parkinson disease, juvenile, type 2",Parkinsons
+PDGFRA,GIST,,GI,Gastrointestinal Stromal Tumor,GIST
+PDGFRA,Hypereosinophilic Syndrome,,Blood,Hypereosinophilic syndrome,Hypereosinophilic Syndrome
+PDGFRA,Leukemia,Chronic Eosinophilic Leukemia,Blood,Eosinophilic leukemia,Leukemia
+PHOX2B,CNS (Benign),Central Hypoventilation,CNS,Central hypoventilation,Central Hypoventilation
+PHOX2B,Gastrointestinal (Benign),Hirschsprung Disease,Colorectal,Hirschsprung disease,Hirschsprung Disease
+PHOX2B,Peripheral Nervous System Cancer,Neuroblastoma,PNS,Neuroblastoma,Neuroblastoma
+PIK3CA,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+PIK3CA,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+PMS2,Adrenal Cortical Carcinoma,,Adrenal,Adrenocortical carcinoma,Adrenal Cortical Carcinoma
+PMS2,Hair (Benign),Alopecia Areata,Hair,Alopecia areata,Alopecia Areata
+PMS2,Bladder Cancer,,Urinary Bladder,Urinary Bladder,Bladder Cancer
+PMS2,Brain Tumor,Glioblastoma Multiforme,Brain,Brain Tumor,Brain Tumor
+PMS2,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+PMS2,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+PMS2,Endometrial Cancer,,Uterus,Endometrial cancer,Endometrial Cancer
+PMS2,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+PMS2,Hepatobiliary Cancer,,Liver,Hepatobiliary,Hepatobiliary Cancer
+PMS2,Kidney Cancer,Renal Pelvis,Kidney,Kidney,Kidney Cancer
+PMS2,Lymphoma,,Nodes,Lymphoma,Lymphoma
+PMS2,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+PMS2,Pancreatic Cancer,,Pancreas,Pancreatic cancer,Pancreatic Cancer
+PMS2,Prostate Cancer,,Prostate,Prostate cancer,Prostate Cancer
+PMS2,Sebaceous Adenoma,,Skin,Sebaceous adenoma,Sebaceous Adenoma
+PMS2,Sebaceous Cancer,,Skin,Sebaceous carcinoma,Sebaceous Cancer
+PMS2,Skin (Benign),Keratoacanthoma,Skin,Keratoacanthoma,Skin (Benign)
+PMS2,Small Intestine Cancer,,Small Bowel,Small Instestine,Small Intestine Cancer
+PMS2,Upper Urinary Tract Cancer,,Upper Urinary Tract,Ureter,Upper Urinary Tract Cancer
+PMS2-Biallelic,Brain Tumor,,Brain,Brain Tumor,Brain Tumor
+PMS2-Biallelic,Colorectal Neoplasia,,Colorectal,Upper Urinary Tract,Colorectal Polyps
+PMS2-Biallelic,Small Intestine Cancer,,Small Bowel,Upper Urinary Tract,Gastrointestinal Carcinoma
+PMS2-Biallelic,Lymphoma,,Nodes,Lymphoma,Lymphoma
+PMS2-Biallelic,Neurofibroma,,,Upper Urinary Tract,Neurofibromas
+PMS2-Biallelic,Sarcoma,Rhabdomyosarcoma,Soft Tissue,Upper Urinary Tract,Rhabdomyosarcoma
+PMS2-Biallelic,Skin Cancer (Non-Melanoma),,Skin,Upper Urinary Tract,Skin Tumor
+PMS2P1,Hepatobiliary Cancer,Cholangiocarcinoma,Bile Duct,Bile duct,Hepatobiliary Cancer
+POLD1,Brain Tumor,Glioblastoma Multiforme,Brain,Brain Tumor,Brain Tumor
+POLD1,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+POLD1,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+POLD1,Endometrial Cancer,,Uterus,Endometrial cancer,Endometrial Cancer
+POLD1,MDPL syndrome,"Lipodystrophy, Deafness, Mandibular Hypoplasia",,Mandibular hypoplasia,MDPL syndrome
+POLD1,Ovarian Cancer,,Ovary,Endometrial cancer,Ovarian Cancer
+POLD1,Pancreatic Cancer,,Pancreas,Pancreatic cancer,Pancreatic Cancer
+POLD1,Colorectal Neoplasia,Adenomatous Polyps,Colorectal,Adenomatous polyp,Polyposis
+POLD1,Small Intestine Cancer,,Small Bowel,Brain Tumor,Small Intestine Cance
+POLE,Brain Tumor,Glioblastoma Multiforme,Brain,Brain Tumor,Brain Tumor
+POLE,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+POLE,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+POLE,Colorectal Neoplasia,Adenomatous Polyps,Colorectal,Adenomatous polyp,Colorectal Polyp
+POLE,Endometrial Cancer,,Uterus,Endometrial cancer,Endometrial Cancer
+POLE,Myopathy,Nemaline Myopathy ,Muscle,Nemaline myopathy ,Myopathy
+POLE,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+POLE,Pancreatic Cancer,,Pancreas,Pancreatic cancer,Pancreatic Cancer
+POLE,Small Intestine Cancer,,Small Bowel,Brain Tumor,Small Intestine Cance
+PRKAR1A,Dysmorphic Feature,Acrodysostosis,Bone,Acrodysostosis 1,Acrodysostosis
+PRKAR1A,Adrenal Cortical Carcinoma,,Adrenal,Adrenocortical carcinoma,Adrenal Cortical Carcinoma
+PRKAR1A,Adrenal Cortical (Benign),Pigmented Nodular Adrenocortical Disease,Adrenal,Pigmented nodular adrenocortical disease,Adrenocortical Disease
+PRKAR1A,Bone Neoplasm,Osteochondromyxoma,Bone,Osteochondromyxoma,Bone Neoplasm
+PRKAR1A,Cardiovascular Neoplasm,Cardiac Myxoma,Heart,Intracardiac Myxoma,Intracardiac Myxoma
+PRSS1,Pancreas (Benign),Pancreatitis,Pancreas,Gastric cancer,Pancreatitis
+PRSS1,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+PTCH1,Brain Tumor,Medulloblastoma,Brain,Brain Tumor,Brain Tumor
+PTCH1,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+PTCH1,Eye (Benign),Coloboma,Eye,Coloboma,Coloboma
+PTCH1,Colorectal Cancer,,Colorectal,Colon cancer,Colorectal Cancer
+PTCH1,CNS (Benign),Holoprosencephaly,Brain,Holoprosencephaly,Holoprosencephaly
+PTCH1,Bone Neoplasm,Keratocystic Odontogenic Tumor,Bone,Keratocystic odontogenic tumor,Jaw Keratocyst
+PTCH1,Lymphomesentric Cyst,,,Keratocystic odontogenic tumor,Lymphomesentric Cyst
+PTCH1,Eye (Benign),Cataract,Eye,Keratocystic odontogenic tumor,Ocular Anomalys
+PTCH1,Ovarian (Benign),,Ovary,Keratocystic odontogenic tumor,Ovarian Neoplasm
+PTCH1,Skin (Benign),Palmoplantar Pits,Skin,Keratocystic odontogenic tumor,Palmar/Plantar pits
+PTCH1,Lung (Benign),Pleural Cyst,Lung,Keratocystic odontogenic tumor,Plural Cyst
+PTCH1,Bone (Benign),Vertebral Defects,Bone,Keratocystic odontogenic tumor,Skeletal Anomalys
+PTCH1,Skin (Benign),Nevi,Skin,Skin (Benign),Skin (Benign)
+PTCH1,Skin Cancer (Non-Melanoma),Basal Cell Carcinoma,Skin,Skin Cancer,Skin Cancer (Non-Melanoma)
+PTEN,Psychiatric,Autism,CNS,Autism spectrum disorder,Autism
+PTEN,Brain Tumor,,Brain,Brain Tumor,Brain Tumor
+PTEN,Brain Tumor,Cerebellar Gangliocytoma,Brain,Lhermitte-Duclos disease,Brain Tumor
+PTEN,Breast (Benign),"Virginal hyperplasia
+- Fibrocystic breast disease
+- Breast fibroadenomas",Breast,Fibrocystic breast disease,Breast (Benign)
+PTEN,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+PTEN,CNS (Benign),Cerebrovascular Malformations,Brain,Cerebrovascular malformations,Cerebrovascular Malformations
+PTEN,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+PTEN,Endometrial Cancer,,Uterus,Uterine fibroids,Endometrial
+PTEN,Facial Papules,,Skin,Facial papules,Facial Papules
+PTEN,Gastric Cancer,,Gastric,Colorectal cancer,Gastric Cancer
+PTEN,GI Neoplasm,Hamartomatous Polyps,GI,GI hamartoma,GI Hamartoma
+PTEN,Head And Neck Cancer,Squamous Cell Carcinoma,Skin,Head and neck squamous cell carcinomas,Head And Neck Cancer
+PTEN,Kidney Cancer,Renal Cell Carcinoma,Kidney,Kidney,Kidney Cancer
+PTEN,Lipoma,,Lipid,Lipoma,Lipoma
+PTEN,Lung Cancer,,Lung,Lung cancer,Lung Cancer
+PTEN,Dysmorphic Feature,Macrocephaly,Head and neck,Macrocephaly,Macrocephaly
+PTEN,Melanoma,,Skin,Melanoma,Melanoma
+PTEN,Oropharynx (Benign),Oral Mucosal Papillomatosis,Oropharynx,Oral mucosal papillomatosis,Oral Mucosal Papillomatosis
+PTEN,Ovarian Cancer,,Ovary,Breast cancer,Ovarian Cancer
+PTEN,Skin (Benign),"Palmoplantar Keratoses - Multiple facial papules
+- Acral keratoses
+- Multiple skin tags
+- Facial trichilemmomas
+- Subcutaneous lipomas",Skin,Palmoplantar keratoses,Palmoplantar Keratoses
+PTEN,Prostate Cancer,,Prostate,Prostate cancer,Prostate Cancer
+PTEN,Skin (Benign),Trichilemmoma,Skin,Trichilemmoma,Skin (Benign)
+PTEN,Skin (Benign),Macular Pigmentation Of Glans Penis,Genitals,Pigmentation of glans penis,Skin (Benign)
+PTEN,Skin (Benign),Acral Keratoses,Skin,Skin (Benign),Skin (Benign)
+PTEN,Skin Cancer (Non-Melanoma),Squamous Cell Carcinoma,Skin,Squamous cell carcinoma,Squamous Cell Carcinoma
+PTEN,Thyroid (Benign),,Thyroid,Benign thyroid disease,Thyroid (Benign)
+PTEN,Thyroid Cancer,,Thyroid,Thyroid cancer,Thyroid Cancer
+PTEN,Uterus (Benign),Uterine Fibroids,Uterus,Uterine fibroids,Uterine Corpus (Benign)
+RAD50,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+RAD50,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+RAD50,Ovarian (Benign),Polycystic Ovary Disease,Ovary,Polycystic ovary disease,Polycystic Ovary Disease
+RAD50,Prostate Cancer,,Prostate,Prostate cancer,Prostate Cancer
+RAD51C,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+RAD51C,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+RAD51C,Gastric Cancer,,Gastric,Head and neck squamous cell carcinomas,Gastric Cancer
+RAD51C,Head And Neck Cancer,Squamous Cell Carcinoma,Skin,Head and neck squamous cell carcinomas,Head And Neck Cancer
+RAD51C,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+RAD51C,Prostate Cancer,,Prostate,Prostate cancer,Prostate Cancer
+RAD51C,Gastrointestinal (Benign),Tracheoesophageal Fistula ,Mediastinum,Tracheoesophageal fistula ,Tracheoesophageal Fistula 
+RAD51D,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+RAD51D,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+RAD51D,Prostate Cancer,,Prostate,Prostate cancer,Prostate Cancer
+RB1,Bladder Cancer,,Urinary Bladder,Bladder cancer,Bladder Cancer
+RB1,Brain Tumor,Pineoblastoma,Brain,Brain Tumor,Brain Tumor
+RB1,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+RB1,Head And Neck Cancer,,Head and neck,Head and Neck Cancer,Head And Neck Cancer
+RB1,Lung Cancer,,Lung,Lung cancer,Lung Cancer
+RB1,Melanoma,,Skin,Melanoma,Melanoma
+RB1,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+RB1,Retinoblastoma,Retinoblastoma,Eye,Retinoblastoma,Retinoblastoma
+RB1,Sarcoma,Soft Tissue Sarcoma,Soft Tissue,Soft Tissue Sarcoma,Sarcoma
+RB1,Sarcoma,Adamantinoma,Bone,Adamantinoma of long bones,Sarcoma (Bone)
+RB1,Sarcoma,Osteosarcoma,Bone,Osteosarcoma,Sarcoma (Bone)
+RECQL,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+RECQL,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+RET,CNS (Benign),Central Hypoventilation,CNS,Central hypoventilation,Central Hypoventilation
+RET,Gastrointestinal (Benign),Hirschsprung Disease,Colorectal,Hirschsprung disease,Hirschsprung Disease
+RET,Lung Cancer,,Lung,Lung cancer,Lung Cancer
+RET,Pheochromocytoma/Paraganglioma,Pheochromocytoma,Adrenal,Pheochromocytoma,Neuroendocrine
+RET,Pheochromocytoma/Paraganglioma,Paraganglioma,Nerve,Paraganglioma,Neuroendocrine
+RET,Thyroid Cancer,Medullary Thyroid Cancer,Thyroid,Thyroid cancer,Thyroid Cancer
+RINT1,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+RINT1,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+RPS20,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+RUNX1,Leukemia,AML,Blood,Leukemia,Leukemia
+RUNX1,Blood (Benign),Platelet disorder,Blood,Familial platelet disorder,Platelet disorder
+RUNX1,Bone (Benign),Rheumatoid Arthritis,Bone,Rheumatoid arthritis.,Rheumatoid Arthritis
+RUNX1,Blood (Benign),Systemic Mastocytosis,Blood,Systemic mastocytosis,Systemic Mastocytosis
+SDHA,GIST,,Small Bowel,Gastrointestinal Stromal Tumor,GIST
+SDHA,Pheochromocytoma/Paraganglioma,Pheochromocytoma,Adrenal,Pheochromocytoma,Neuroendocrine
+SDHA,Pheochromocytoma/Paraganglioma,Paraganglioma,Nerve,Paraganglioma,Neuroendocrine
+SDHAF2,Neuroendocrine,Neural crest tumor,Neuroendocrine,Neural crest tumor,Neoroendocrine
+SDHAF2,Pheochromocytoma/Paraganglioma,Pheochromocytoma,Adrenal,Pheochromocytoma,Neuroendocrine
+SDHAF2,Pheochromocytoma/Paraganglioma,Paraganglioma,Nerve,Paraganglioma,Neuroendocrine
+SDHB,Adrenal Cortical (Benign),Adrenal Medulla Hyperplasia,Adrenal,Bilateral Adrenal Medullary Hyperplasia,Adrenal Medulla Hyperplasia
+SDHB,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+SDHB,Endometrial Cancer,,Uterus,Endometrial cancer,Endometrial Cancer
+SDHB,GIST,,Small Bowel,Gastrointestinal Stromal Tumor,GIST
+SDHB,Kidney Cancer,Renal Cell Carcinoma,Kidney,Renal Cell Carcinoma,Kidney Cancer
+SDHB,Pheochromocytoma/Paraganglioma,Pheochromocytoma,Adrenal,Pheochromocytoma,Neuroendocrine
+SDHB,Pheochromocytoma/Paraganglioma,Paraganglioma,Nerve,Paraganglioma,Neuroendocrine
+SDHB,Thyroid Cancer,,Thyroid,Thyroid cancer,Thyroid Cancer
+SDHC,GIST,,Small Bowel,Gastrointestinal Stromal Tumor,GIST
+SDHC,Kidney Cancer,Renal Cell Carcinoma,Kidney,Kidney,Kidney Cancer
+SDHC,Pheochromocytoma/Paraganglioma,Paraganglioma,Nerve,Paraganglioma,Neuroendocrine
+SDHC,Pheochromocytoma/Paraganglioma,Pheochromocytoma,Adrenal,Pheochromocytoma,Neuroendocrine
+SDHD,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+SDHD,GIST,,Small Bowel,Gastrointestinal Stromal Tumor,GIST
+SDHD,Kidney Cancer,Renal Cell Carcinoma,Kidney,Kidney,Kidney Cancer
+SDHD,Skin Cancer (Non-Melanoma),Merkel Cell Carcinoma,Skin,Merkel Cell Carcinoma,Merkel Cell Carcinoma
+SDHD,Pheochromocytoma/Paraganglioma,Paraganglioma,Nerve,Paraganglioma,Neuroendocrine
+SDHD,Pheochromocytoma/Paraganglioma,Pheochromocytoma,Adrenal,Pheochromocytoma,Neuroendocrine
+SDHD,Thyroid Cancer,,Thyroid,Thyroid cancer,Thyroid Cancer
+SLX4,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+SLX4,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+SMAD4,Blood Vessel (Benign),Aortic Dilation,Blood Vessel,Aortic dilation,Aortic Dilation
+SMAD4,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+SMAD4,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+SMAD4,Duodenum Cancer,,Duodenum,Gastric cancer,Duodenal Cancer
+BRCA2,Brain Tumor,Glioma,Brain,Brain Tumor,Brain Tumor
+HOXB13,Brain Tumor,Ependymoma,Brain,Spinal cord ependymoma,Brain Tumor
+APC,Adrenal Neoplasm,Adrenal Adenoma,Adrenal,Osteoma,Adrenal Mass
+VHL,Testicular Neoplasm,Epididymal Cystadenomas,Testes,Paraganglioma,epididymal cystadenomas
+VHL,Neuroendocrine,Neuroendocrine tumors,Neuroendocrine,Paraganglioma,Neuroendocrine
+VHL,Pancreas (Benign),Pancreatic Cysts,Pancreas,Paraganglioma,Pancreatic Tumors
+VHL,Kidney Neoplasm,Renal Angioma,Kidney,Kidney,Kidney Cancer
+SUFU,Bone (Benign),Vertebral Defects,Bone,Keratocystic odontogenic tumor,Skeletal Anomalys
+SMAD4,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+SMAD4,Hepatobiliary Cancer,Cholangiocarcinoma,Bile Duct,Cholangiocarcinoma,Hepatobiliary Cancer
+SMAD4,Colorectal Neoplasia,Juvenile Polyps,Colorectal,Juvenile polyps,Juvenile Polyps
+SMAD4,Lung (Benign),Laryngotracheal Stenosis,Lung,Laryngotracheal Stenosis,Laryngotracheal Stenosis
+SMAD4,Psychiatric,Obsessive-Compulsive Disorder,CNS,Obsessive-Compulsive Disorder,Obsessive-Compulsive Disorder
+SMAD4,Pancreatic Cancer,,Pancreas,Pancreatic cancer,Pancreatic Cancer
+SMAD4,Bone (Benign),Prognathism,Bone,Prognathism,Prognathism
+SMAD4,Blood Vessel (Benign),Pulmonary Arterial Hypertension,Blood Vessel,Pulmonary Arterial Hypertension,Pulmonary Arterial Hypertension
+SMAD4,Dysmorphic Feature,Short Stature,Bone,Short stature,Short Stature
+SMAD4,Small Intestine Cancer,,Small Bowel,Small Instestine,Small Intestine Cancer
+SMARCA4,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+SMARCA4,Developmental,Intellectual Disability,CNS,Intellectual disability,Intellectual Disability
+SMARCA4,Lung Cancer,,Lung,Lung cancer,Lung Cancer
+SMARCA4,Ovarian Cancer,Small cell carcinoma of the ovary-hypercalcemic type (SCCOHT),Ovary,Ovarian cancer,Ovarian Cancer
+SMARCA4,Sarcoma,Thoracic Sarcomas,Soft Tissue,Thoracic sarcomas,Sarcoma
+SMARCA4,Rhabdoid Tumour,,Kidney,Rhabdoid,Sarcoma
+SMARCB1,Developmental,Intellectual Disability,CNS,Intellectual disability,Intellectual Disability
+SMARCB1,Peripheral Nervous System Neoplasm,Schwannoma,PNS,Schwannomatosis,Peripheral Nervous System Neoplasm
+SMARCB1,Rhabdoid Tumour,,Kidney,Rhabdoid,Sarcoma
+SMARCE1,Brain Tumor,Meningioma,Brain,Meningioma,Brain Tumor
+STK11,Hepatobiliary Cancer,Cholangiocarcinoma,Bile Duct,Bile Duct cancer,Bile Duct Cancer
+STK11,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+STK11,Cervical Cancer,Cervical Adenoma Malignum,Cervix,Cervical cancer,Cervical Cancer
+STK11,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+STK11,Endometrial Cancer,,Uterus,Endometrial cancer,Endometrial Cancer
+STK11,Gastric Cancer,,Gastric,Gastric cancer,Gastric Cancer
+STK11,GI Neoplasm,Hamartomatous Polyps,GI,Gastrointestinal hamartomatous polyps,GI Neoplasm
+STK11,Kidney Cancer,Renal Cell Carcinoma,Kidney,Renal Cell Carcinoma,Kidney Cancer
+STK11,Lung Cancer,,Lung,Lung cancer,Lung Cancer
+STK11,Melanoma,,Skin,Melanoma,Melanoma
+STK11,Oropharynx (Benign),Orofacial Cleft,Oropharynx,Orofacial clefting,Orofacial Cleft
+STK11,Ovarian Neoplasm,Sex Cord Tumor,Ovary,Ovarian cancer,Ovarian (Benign)
+STK11,Pancreatic Cancer,,Pancreas,Pancreatic cancer,Pancreatic Cancer
+STK11,Skin (Benign),Perioral Freckling,Skin,Perioral freckling,Skin (Benign)
+STK11,Small Intestine Cancer,,Small Bowel,Small Instestine,Small Intestine Cancer
+STK11,Testicular Neoplasm,Sertoli Cell Tumor,Testes,Testicular Tumor,Testicular Neoplasm
+STK11,Thyroid Cancer,,Thyroid,Thyroid cancer,Thyroid Cancer
+SUFU,Brain Tumor,Meningioma,Brain,Brain Tumor,Brain Tumor
+SUFU,Brain Tumor,Medulloblastoma,Brain,Brain Tumor,Brain Tumor
+SUFU,Bone Neoplasm,Keratocystic Odontogenic Tumor,Bone,Keratocystic odontogenic tumor,Jaw Keratocyst
+SUFU,Lymphomesentric Cyst,,,Keratocystic odontogenic tumor,Lymphomesentric Cyst
+SUFU,Eye (Benign),Cataract,Eye,Keratocystic odontogenic tumor,Ocular Anomalys
+SUFU,Ovarian (Benign),,Ovary,Keratocystic odontogenic tumor,Ovarian Neoplasm
+SUFU,Skin (Benign),Palmoplantar Pits,Skin,Keratocystic odontogenic tumor,Palmar/Plantar pits
+SUFU,Lung (Benign),Pleural Cyst,Lung,Keratocystic odontogenic tumor,Plural Cyst
+SUFU,Bone (Benign),Bifid Rib,Bone,Keratocystic odontogenic tumor,Skeletal Anomalys
+SUFU,Skin (Benign),Nevi,Skin,Nevus,Skin (Benign)
+SUFU,Skin Cancer (Non-Melanoma),Basal Cell Carcinoma,Skin,Skin Cancer,Skin Cancer (Non-Melanoma)
+TERC,Blood (Benign),"Aplastic Anemia, bone marrow failure",Blood,Aplastic anemia,Aplastic Anemia
+TERC,Skin (Benign),"Abnormal skin pigmentation, nail dystrophy",Skin,Dyskeratosis congenita,Dyskeratosis Congenita
+TERC,Leukemia,AML,Blood,Leukemia,Leukemia
+TP53,Prostate Cancer,,Prostate,Prostate cancer,Prostate Cancer
+TP53,Sarcoma,Soft Tissue Sarcoma,Soft Tissue,Soft Tissue Sarcoma,Sarcoma
+TP53,Sarcoma,Osteosarcoma,Bone,Osteosarcoma,Sarcoma (Bone)
+TP53,Skin Cancer (Non-Melanoma),Squamous Cell Carcinoma,Skin,Squamous cell carcinoma,Skin Cancer
+TP53,Skin Cancer (Non-Melanoma),Basal Cell Carcinoma,Skin,Basal cell carcinoma,Skin Cancer (Non-Melanoma)
+TP53,Wilms Tumor,Nephroblastoma,Kidney,Wilm's Tumor,Wilms Tumor
+TSC1,Bladder Cancer,,Urinary Bladder,Bladder cancer,Bladder Cancer
+TSC1,Cardiovascular Neoplasm,Rhabdomyomas,Heart,Congenital heart defects,Congenital Heart Defects
+TSC1,CNS (Benign),Cortical Dysplasia,Brain,Cortical dysplasia,Cortical Dysplasia
+TERC,Oropharynx (Benign),Leukoplakia,Oropharynx,Oral leukoplakia,Leukoplakia
+TERC,Lung (Benign),Pulmonary Fibrosis,Lung,Pulmonary fibrosis,Pulmonary Fibrosis
+TERC,Skin Cancer (Non-Melanoma),Squamous Cell Carcinoma,Skin,Squamous cell carcinoma,Squamous Cell Carcinoma
+TERT,Blood (Benign),Aplastic Anemia,Blood,Aplastic anemia,Aplastic Anemia
+TERT,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+TERT,Skin (Benign),Dyskeratosis Congenita,Skin,Dyskeratosis congenita,Dyskeratosis Congenita
+TERT,Hepatobiliary Cancer,Gallbladder Cancer,Gallbladder,Cholangiocarcinoma,Hepatobiliary Cancer
+TERT,Leukemia,AML,Blood,Leukemia,Leukemia
+TERT,Melanoma,,Skin,Melanoma,Melanoma
+TERT,Lung (Benign),Pulmonary Fibrosis,Lung,Pulmonary fibrosis,Pulmonary Fibrosis
+TERT,Skin Cancer (Non-Melanoma),Squamous Cell Carcinoma,Skin,Squamous cell carcinoma,Squamous Cell Carcinoma
+TMEM127,Lymphadenopathy,Generalized,Nodes,Generalized lymphadenopathy,Lymphadenopathy
+TMEM127,Pheochromocytoma/Paraganglioma,Pheochromocytoma,Adrenal,Pheochromocytoma,Neuroendocrine
+TMEM127,Pheochromocytoma/Paraganglioma,Paraganglioma,Nerve,Paraganglioma,Neuroendocrine
+TMEM127,Cardiovascular (Benign),Tricuspid Atresia,Heart,Tricuspid atresia,Tricuspid Atresia
+TP53,Adrenal Cortical Carcinoma,,Adrenal,Adrenocortical carcinoma,Adrenal Cortical Carcinoma
+TP53,Hepatobiliary Cancer,Cholangiocarcinoma,Bile Duct,Cholangiocarcinoma,Bile Duct Cancer
+TP53,Bladder Cancer,,Urinary Bladder,Urinary Bladder,Bladder Cancer
+TP53,Brain Tumor,Glioma,Brain,Brain Tumor,Brain Tumor
+TP53,Brain Tumor,Choroid Plexus Papilloma,Brain,Choroid Plexus Papilloma,Brain Tumor
+TP53,Brain Tumor,Medulloblastoma,Brain,Brain Tumor,Brain Tumor
+TP53,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+TP53,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+TP53,Endometrial Cancer,,Uterus,Endometrial cancer,Endometrial Cancer
+TP53,Esophageal Cancer,,Esophagus,Esophageal cancer,Esophageal Cancer
+TP53,Gastric Cancer,,Gastric,GI hamartoma,Gastric Cancer
+TP53,Head And Neck Cancer,,Head and neck,Head and neck cancer,Head And Neck Cancer
+TP53,Hepatobiliary Cancer,Hepatocellular Cancer,Liver,Hepatocellular Carcinoma,Hepatocellular Cancer
+TP53,Leukemia,,Blood,Leukemia,Leukemia
+TP53,Lung Cancer,,Lung,Lung cancer,Lung Cancer
+TP53,Melanoma,,Skin,Melanoma,Melanoma
+TP53,Nasopharyngeal Cancer,,Head and neck,Nasopharyngeal Cancer,Nasopharyngeal Cancer
+TP53,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+TP53,Pancreatic Cancer,,Pancreas,Pancreatic cancer,Pancreatic Cancer
+TSC1,Oropharynx (Benign),Hamartomas Of Tongue,Oropharynx,Hamartomas of tongue,Hamartoma
+TSC1,Kidney Cancer,Renal Cell Carcinoma,Kidney,Kidney cancer,Kidney Cancer
+TSC1,Lung Cancer,,Lung,Lung cancer,Lung Cancer
+TSC1,Lymphangiomyomatosis,,Lymphatic,Lymphangioleiomyomatosis,Lymphangiomyomatosis
+TSC1,Bone (Benign),Polysyndactyly,Hand,Polysyndactyly,Polysyndactyly
+TSC2,CNS (Benign),Cortical Dysplasia,Brain,Cortical dysplasia,Cortical Dysplasia
+TSC2,Kidney Cancer,Renal Cell Carcinoma,Kidney,Kidney cancer,Kidney Cancer
+TSC2,Lung Cancer,,Lung,Lung cancer,Lung Cancer
+VHL,Brain Tumor,CNS Hemangioblastoma,Brain,Hemangioblastoma,Brain/CNS/Eye Tumor
+VHL,Kidney Cancer,Renal Cell Carcinoma,Kidney,Kidney,Kidney Cancer
+VHL,Pheochromocytoma/Paraganglioma,Pheochromocytoma,Adrenal,Pheochromocytoma,Neuroendocrine
+VHL,Pheochromocytoma/Paraganglioma,Paraganglioma,Nerve,Paraganglioma,Neuroendocrine
+VHL,Neuroendocrine,Pancreatic Neuroendocrine Tumor,Pancreas,Pancreatic Neuroendocrine Tumor,Neuroendocrine
+WT1,Eye (Benign),Anirida,Eye,Anirida,Anirida
+WT1,Kidney (Benign),Nephrotic Syndrome,Kidney,Congenital nephrotic syndrome,Congenital Nephrotic Syndrome
+WT1,Gastrointestinal (Benign),Diaphragmatic Hernia,Diaphragm,Diaphragmatic hernia,Diaphragmatic Hernia
+WT1,Genitourinary (Benign),"Cryptorchidism, ectopic ureter",Genitals,Genitourinary anomalies,Genitourinary Anomalies
+WT1,Developmental,Intellectual Disability,CNS,Intellectual disability,Intellectual Disability
+WT1,Leukemia,AML,Blood,Leukemia,Leukemia
+WT1,Mesothelioma,Pleura,Mesothelium,Mesothelioma,Mesothelioma
+WT1,Prostate Cancer,,Prostate,Prostate cancer,Prostate Cancer
+WT1,Wilms Tumor,Nephroblastoma,Kidney,Wilm's tumor,Wilms Tumor
+XRCC2,Breast Cancer,,Breast,Breast cancer,Breast Cancer
+XRCC2,Leukemia,AML,Blood,Leukemia,Leukemia
+XRCC2,Ovarian Cancer,,Ovary,Ovarian cancer,Ovarian Cancer
+SRGAP1,Endocrine,Familial Hypocalciuric Hypercalcemia,Endocrine,Hypocalciuric hypercalcemia,Hypocalciuric Hypercalcemia
+SRGAP1,Skin (Benign),Skin Pigmentation,Skin,Cafe-Au-Lait Spots,Skin Pigmentation
+SRGAP1,Cardiovascular Neoplasm,Cardiac Myxoma,Heart,Intracardiac Myxoma,Cardiac Myxoma
+SRGAP1,Skin (Benign),Lentigines,Skin,Cafe-Au-Lait Spots,Lentigines
+SRGAP1,Skin Neoplasm,Mucocutaneous myoma,Skin,Intracardiac Myxoma,Mucocutaneous myoma
+PDGFRA,Prostate Cancer,,Prostate,,
+FGFR3,Prostate Cancer,,Prostate,,
+FLT3,Prostate Cancer,,Prostate,,
+TRRAP,Prostate Cancer,,Prostate,,
+FANCA,Prostate Cancer,,Prostate,,
+ELAC2,Prostate Cancer,,Prostate,,
+MITF,Prostate Cancer,,Prostate,,
+EHBP1,Prostate Cancer,,Prostate,,
+IGF2R,Hepatobiliary Cancer,Hepatocellular Cancer,Liver,Hepatocellular carcinoma,Hepatocellular Cancer
+FAT4,Hepatobiliary Cancer,Hepatocellular Cancer,Liver,Hepatocellular carcinoma,Hepatocellular Cancer
+HPC1,Prostate Cancer,,Prostate,,
+PCAP,Prostate Cancer,,Prostate,,
+NTRK,Hepatobiliary Cancer,Hepatocellular Cancer,Liver,Hepatocellular carcinoma,Hepatocellular Cancer
+MSH3,Colorectal Cancer,,Colorectal,Colorectal cancer,Colorectal Cancer
+TSC1,Brain Tumor,Subependymal giant cell astrocytomas,Brain,,
+TSC1,Skin (Benign),"hypomelanotic macules, confetti skin lesions, facial angiofibromas, shagreen patches, fibrous cephalic plaques and ungual fibromas",,,
+TSC2,Angiomyolipomas,,Kidney,,
+TSC1,Hamartoma,Retinal nodular hamartomas,Eye,,
+TSC2,Neuroendocrine,,Pancreas,,
+TSC1,Angiomyolipomas,,Kidney,,
+TSC2,Brain Tumor,Subependymal giant cell astrocytomas,Brain,,
+TSC2,Brain Tumor,Subependymal nodules,Brain,,
+TSC2,Brain Tumor,Cortical tubers,Brain,,
+TSC2,Cardiovascular Neoplasm,Rhabdomyomas,Heart,,
+TSC2,Hamartoma,Retinal nodular hamartomas,Eye,,
+TSC2,Hamartoma,,Multiple organs,,
+TSC2,Lymphangiomyomatosis,,Lymphatic,,
+TSC1,Neuroendocrine,,Pancreas,,
+TSC2,Oropharynx (Benign),Hamartomas Of Tongue,Oropharynx,,
+TSC2,Skin (Benign),"hypomelanotic macules, confetti skin lesions, facial angiofibromas, shagreen patches, fibrous cephalic plaques and ungual fibromas",,,
+TSC2,Tuberous sclerosis complex (TSC),,General,,
