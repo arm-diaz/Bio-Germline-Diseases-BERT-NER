@@ -51,7 +51,7 @@ You can also build the graph by running the cql query `knowledge-graph/crqCreate
 
 Execute jupyter notebook `charts/chart-wordcloud`
 
-### General stats
+### General Statistics
 
 Execute jupyter notebook `charts/stats`
 
