@@ -22,4 +22,4 @@ print(sentences[0:5])
 
 # Convert into DataFrame
 sentence_df = pd.DataFrame(sentences, columns=["pubmed_id", "sentence#", "sentence"])
-sentence_df.to_csv("results/pubmed_sentences2.csv", index=None)
+sentence_df.to_csv("results/pubmed_sentences.csv", index=None)

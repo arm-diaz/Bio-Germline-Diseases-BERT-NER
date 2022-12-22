@@ -31,7 +31,7 @@ Files:
 
 ### Data Cleaning
 
-`nohup python pre-processing/data_cleaning.py &`
+`nohup python pre-processing/tokenization.py &`
 
 ### Name Entity Recognition
 
