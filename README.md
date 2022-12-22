@@ -29,7 +29,7 @@ Files:
 
 ## Run Pipeline
 
-### Data Cleaning
+### Data Pre-processing
 
 `nohup python pre-processing/tokenization.py &`
 
