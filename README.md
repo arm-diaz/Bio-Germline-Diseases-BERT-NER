@@ -82,8 +82,7 @@ Files:
 + `ner_diseases`: CSV file contains Pubmed ID, Sentence#, Word (NER Disease), Start (Position), End (Position), Entity (Type)
 + `ner_disambiguated_genes`: CSV file contains disambiguated entities for the `ner_genes` file
 + `ner_disambiguated_diseases`: CSV file contains disambiguated entities for the `ner_diseases` file
-
-
+  
 ## Graphs
 
 ### Graph 1: Gene <- PubMedID -> Disease {name: 'Teeth (Benign)'}
@@ -93,7 +92,6 @@ Files:
 ### Graph 2: PubMedID -> Disease {name: 'Teeth (Benign)'}
 
 ![Graph2](images/graph2.png "Graph2")
-
 
 ### Graph 3: PubMedID -> Gene {name: 'AXIN2'}
 
