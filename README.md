@@ -64,8 +64,7 @@ Execute jupyter notebook `charts/chart-wordcloud`
 
 #### WordCloud Diseases: Name Entity Disambiguation
 
-![wordCloud2](images/wordCloudDisambiguatedDisease.png "wordCloud2")
-
+![wordCloud4](images/wordCloudDisambiguatedDisease.png "wordCloud4")
 
 ### General Statistics
 
