@@ -4,7 +4,6 @@
 
 ![Figure: Workflow](images/workflow.png "Workflow")
 
-
 ## Dependencies
 
 `Python 3.7`
