@@ -25,7 +25,7 @@ Files:
 
 + `pubmed_abstracts`: CSV file contains Pubmed ID, and Abstract.
 + `gene_names`: CSV file contains list of genes and alternative gene names.
-+ `gene_diseases_assn`: CSV file contains list of genes, associated diseases, and alternative disease names.
++ `gene_disease_assn`: CSV file contains list of genes, associated diseases, and alternative disease names.
 
 ## Run Pipeline
 
