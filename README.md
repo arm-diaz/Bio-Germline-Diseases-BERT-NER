@@ -32,13 +32,13 @@ Files:
 
 `nohup python pre-processing/tokenization.py &`
 
-### Name Entity Recognition
+### Named Entity Recognition
 
 `nohup python NER/ner_model.py &`
 
-### Name Entity Disambiguation
+### Named Entity Normalization
 
-`nohup python NER/ner_disambiguation.py &`
+`nohup python NER/ner_normalization.py &`
 
 ### Knowledge Graph
 
@@ -50,19 +50,19 @@ You can also build the graph by running the cql query `knowledge-graph/crqCreate
 
 Execute jupyter notebook `charts/chart-wordcloud`
 
-#### WordCloud Genes: Name Entity Recognition
+#### WordCloud Genes: Named Entity Recognition
 
 ![wordCloud1](images/wordCloudGene.png "wordCloud1")
 
-#### WordCloud Genes: Name Entity Disambiguation
+#### WordCloud Genes: Named Entity Normalization
 
 ![wordCloud2](images/wordCloudDisambiguatedGene.png "wordCloud2")
 
-#### WordCloud Diseases: Name Entity Recognition
+#### WordCloud Diseases: Named Entity Recognition
 
 ![wordCloud3](images/wordCloudDisease.png "wordCloud3")
 
-#### WordCloud Diseases: Name Entity Disambiguation
+#### WordCloud Diseases: Named Entity Normalization
 
 ![wordCloud4](images/wordCloudDisambiguatedDisease.png "wordCloud4")
 
